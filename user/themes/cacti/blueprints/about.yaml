@@ -1,0 +1,31 @@
+title: About
+'@extends':
+  type: default
+  context: blueprints://pages
+
+form:
+  fields:
+    tabs:
+      type: tabs
+      active: 1
+      fields:
+        content:
+          fields:
+            header.features1:
+              type: text
+              label: Features 1 title
+            header.features11:
+              type: textarea
+              label: Features 1 text
+            header.features2:
+              type: text
+              label: Features 2 title
+            header.features22:
+              type: textarea
+              label: Features 2 text
+            header.features3:
+              type: text
+              label: Features 3 title
+            header.features33:
+              type: textarea
+              label: Features 3 text

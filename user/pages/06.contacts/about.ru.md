@@ -1,5 +1,6 @@
 ---
 title: Контакты
+features1: 'CustomWordPress development'
 cache_enable: false
 class: home
 profile: true

@@ -18,22 +18,23 @@
     {% endblock %}
 
     {% block header %}
-        {% if theme_config.home_profile %}
-            {% include 'partials/profile.html.twig' %}
-        {% else %}
-            {{ parent() }}
-        {% endif %}
+        {% include 'partials/header.html.twig' %}
     {% endblock %}
 
     {% block content %}
-    <ul id="post-list" class="infinite-scroll">
-        {% for post in collection %}
-        {% include 'partials/post-item.html.twig' %}
-        {% endfor %}
-        {% if config.plugins.pagination.enabled and collection.params.pagination %}
-            {% include 'partials/load-more.html.twig' %}
-        {% endif %}
-    </ul>
+
+        <h1>Главная страница</h1>
+
+    {#<ul id="post-list" class="infinite-scroll">#}
+        {#{% for post in collection %}#}
+        {#{% include 'partials/post-item.html.twig' %}#}
+        {#{% endfor %}#}
+        {#{% if config.plugins.pagination.enabled and collection.params.pagination %}#}
+            {#{% include 'partials/load-more.html.twig' %}#}
+        {#{% endif %}#}
+    {#</ul>#}
+
+
 
     {% endblock %}
 
