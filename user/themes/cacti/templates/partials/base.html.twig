@@ -25,12 +25,11 @@
 {% endblock %}
 
 <main class="main">
-
     <div class="{{ page.header.class }}">
         {% block content %}{% endblock %}
     </div>
-
 </main>
+
 {% block footer %}
     {% include 'partials/footer.html.twig' %}
 {% endblock %}
