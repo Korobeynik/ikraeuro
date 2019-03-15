@@ -31,4 +31,14 @@ ul.langswitcher a {
 }
 
 
+.modal {
+    padding: 50px;
+}
 
+.main .all-products-page .container .all-products-container .row .card .product-info .product-packing li span.icon-weight {
+    background-image: url(../images/weight.png);
+}
+
+.main .all-products-page .container .all-products-container .row .card .product-info .product-packing li span.icon-jar {
+    background-image: url(../images/jar.png);
+}

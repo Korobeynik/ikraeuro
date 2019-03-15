@@ -1,0 +1,102 @@
+{% extends 'partials/base.html.twig' %}
+
+
+{% block content %}
+    {#<h1>{{ page.title }}</h1>#}
+    {#<b>{{ page.header.features1 }}</b>#}
+    {#{{ page.content }}#}
+    <section class="all-products-page">
+        <div class="container">
+            <ul class="breadcrumbs d-flex">
+                <li><a href="#">О компании</a></li>
+                <li>Продукция</li>
+            </ul>
+            <!-- /breadcrumbs -->
+            <h1 class="title title-lg text-center">Продукция</h1>
+            <div class="sub-title text-center">
+                {{ header.product_base_descr }}
+            </div>
+            <div class="all-products-container">
+                <div class="row d-flex flex-wrap">
+                    {% for product_base in page.header.product_base %}
+                        <div class="col-md-3 product">
+                            <div class="card">
+                                <div class="product-img d-flex justify-content-center">
+                                    <a href="product-details.html" class="d-flex">
+                                        {% if product_base.image %}
+                                            {{ page.media[product_base.image] }}
+                                        {% endif %}
+                                    </a>
+                                </div>
+                                <div class="product-info">
+                                    <div class="product-title text-center"><span>{{ product_base.name }}</span></div>
+                                    <ul class="product-packing d-flex align-items-center justify-content-center flex-wrap">
+                                        <li><span class="icon-weight"></span>{{ product_base.weight }}</li>
+                                        <li><span class="icon-jar"></span>{{ product_base.packing }}</li>
+                                    </ul>
+                                    <div class="product-description">
+                                        <p>{{ product_base.descr }}</p>
+                                        <div class="specifications">
+                                            <p><span>Бренд: </span>{{ product_base.brend }}</p>
+                                            <p><span>Страна производитель: </span>{{ product_base.country }}</p>
+                                            <p><span>Энергетическая ценность: </span>{{ product_base.energy }}</p>
+                                            <p><span>Упаковка: </span>{{ product_base.packing }}</p>
+                                            <p><span>Срок харанения: </span>{{ product_base.life }}</p>
+                                            <p><span>Хранение при t: </span>{{ product_base.temp }}°</p>
+                                        </div>
+                                    </div>
+                                    <a data-modal data-target="call-back" href="#" class="btn-call-back btn btn-lg">{{ 'GET_PRICE'|t }}</a>
+                                </div>
+                            </div>
+                        </div>
+                    {% endfor %}
+
+                </div>
+            </div>
+            <!-- /all-products-container -->
+            <div class="title-img text-center">
+                <img src="{{ theme_url }}/images/vip.png" alt="">
+            </div>
+            <div class="sub-title text-center">
+                {{ header.product_vip_descr }}
+            </div>
+            <div class="all-products-container">
+                <div class="row d-flex flex-wrap">
+                    {% for product_vip in page.header.product_vip %}
+                        <div class="col-md-3 product">
+                            <div class="card">
+                                <div class="product-img d-flex justify-content-center">
+                                    <a href="product-details.html" class="d-flex">
+                                        {% if product_vip.image %}
+                                            {{ page.media[product_vip.image] }}
+                                        {% endif %}
+                                    </a>
+                                </div>
+                                <div class="product-info">
+                                    <div class="product-title text-center"><span>{{ product_vip.name }}</span></div>
+                                    <ul class="product-packing d-flex align-items-center justify-content-center flex-wrap">
+                                        <li><span class="icon-weight"></span>{{ product_vip.weight }}</li>
+                                        <li><span class="icon-jar"></span>{{ product_vip.packing }}</li>
+                                    </ul>
+                                    <div class="product-description">
+                                        <p>{{ product_base.descr }}</p>
+                                        <div class="specifications">
+                                            <p><span>Бренд: </span>{{ product_vip.brend }}</p>
+                                            <p><span>Страна производитель: </span>{{ product_vip.country }}</p>
+                                            <p><span>Энергетическая ценность: </span>{{ product_vip.energy }}</p>
+                                            <p><span>Упаковка: </span>{{ product_vip.packing }}</p>
+                                            <p><span>Срок харанения: </span>{{ product_vip.life }}</p>
+                                            <p><span>Хранение при t: </span>{{ product_vip.temp }}°</p>
+                                        </div>
+                                    </div>
+                                    <a data-modal data-target="call-back" href="#" class="btn-call-back btn btn-lg">{{ 'GET_PRICE'|t }}</a>
+                                </div>
+                            </div>
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- /all-products-page -->
+{% endblock %}
