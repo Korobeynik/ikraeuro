@@ -10,6 +10,7 @@ en:
   DAYS_OF_THE_WEEK: [Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday]
   GET_PRICE: Get Price
   VIEW_PRODUCT: View product
+  CALL_BACK: Call me back
 
 cs:
   SITE:
@@ -155,7 +156,9 @@ ru:
   DAYS_OF_THE_WEEK: [Понедельник, Вторник, Среда, Четверг, Пятница, Суббота, Воскресенье]
   GET_PRICE: Узнать цену
   VIEW_PRODUCT: Ознакомиться с товаром
+  CALL_BACK: Перезвоните мне
 
 uk:
   GET_PRICE: Дізнатись ціну
   VIEW_PRODUCT: Ознайомитися з товаром
+  CALL_BACK: Передзвоніть мені
