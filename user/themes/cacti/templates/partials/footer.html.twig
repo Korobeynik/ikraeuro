@@ -8,7 +8,7 @@
         <div class="footer-info d-flex">
             <div class="footer-logo mr-auto">
                 <a href="index.html">
-                    <img src="{{ theme_url }}images/logo.png" alt="">
+                    <img src="{{ theme_url }}/images/logo.png" alt="">
                 </a>
             </div>
             <!-- /footer-logo -->
@@ -24,10 +24,15 @@
                 <span>информация</span>
             </div>
             <ul class="footer-nav">
-                <li><a href="index.htmll">О компании</a></li>
-                <li><a href="products.html">Продукция</a></li>
-                <li><a href="wholesale.html">Оптовым покупателям</a></li>
-                <li><a href="contacts.html">Контакты</a></li>
+                {% for page in pages.children.visible %}
+                    {% set current_page = (page.active or page.activeChild) ? 'active' : '' %}
+                    <li>
+                        <a class="{{ current_page }}" href="{{ page.url }}">
+                            {% if page.header.icon %}<i class="fa fa-{{ page.header.icon }}"></i>{% endif %}
+                            {{ page.menu }}
+                        </a>
+                    </li>
+                {% endfor %}
             </ul>
         </div>
         <!-- /footer-item -->
