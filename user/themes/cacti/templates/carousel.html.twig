@@ -1,13 +1,25 @@
+
+{% block content %}
 <section class="inner">
     <div class="owl-carousel owl-theme">
+        {% for slider in page.header.slider %}
+            <div class="carousel-item" style="background-image: url({{ page.media[slider.image].cache.url }})">
+                <div class="container d-flex flex-column justify-content-center">
+                    <div class="carousel-item-title">{{ slider.title }}</div>
+                    <div class="carousel-item-content">{{ slider.descr }}</div>
+                    <a href="{{ base_url }}/products/" class="btn btn-lg">{{ 'VIEW_PRODUCT'|t }}</a>
+                </div>
+            </div>
+        {% endfor %}
+
         <div class="carousel-item" style="background-image: url({{ theme_url }}/images/slider-1.png)">
             <div class="container d-flex flex-column justify-content-center">
-                <div class="carousel-item-title">{{ page.header.features1 }}</div>
+                <div class="carousel-item-title">Title</div>
                 <div class="carousel-item-content">Мы обеспечиваем продуктовый рынок качественными и полезными для здоровья продуктами по доступной цене.</div>
                 <a href="{{ base_url }}/products/" class="btn btn-lg">Ознакомиться с товаром</a>
             </div>
         </div>
-        <!-- /carousel-item -->
+
         <div class="carousel-item" style="background-image: url({{ theme_url }}/images/slider-2.png)">
             <div class="container d-flex flex-column justify-content-center">
                 <div class="carousel-item-title">Первая икорная компания</div>
@@ -15,7 +27,7 @@
                 <a href="{{ base_url }}/products/" class="btn btn-lg">Ознакомиться с товаром</a>
             </div>
         </div>
-        <!-- /carousel-item -->
+
         <div class="carousel-item" style="background-image: url({{ theme_url }}/images/slider-3.png)">
             <div class="container d-flex flex-column justify-content-center">
                 <div class="carousel-item-title">Что такое имитированная икра</div>
@@ -23,7 +35,9 @@
                 <a href="{{ base_url }}/products/" class="btn btn-lg">Ознакомиться с товаром</a>
             </div>
         </div>
-        <!-- /carousel-item -->
+
     </div>
-    <!-- /owl-carousel -->
+
 </section>
+
+{% endblock %}

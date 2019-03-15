@@ -9,6 +9,7 @@ en:
   MONTHS_OF_THE_YEAR: [January, February, March, April, May, June, July, August, September, October, November, December]
   DAYS_OF_THE_WEEK: [Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday]
   GET_PRICE: Get Price
+  VIEW_PRODUCT: View product
 
 cs:
   SITE:
@@ -153,6 +154,8 @@ ru:
   MONTHS_OF_THE_YEAR: [Январь, Февраль, Март, Апрель, Май, Июнь, Июль, Август, Сентябрь, Октябрь, Ноябрь, Декабрь]
   DAYS_OF_THE_WEEK: [Понедельник, Вторник, Среда, Четверг, Пятница, Суббота, Воскресенье]
   GET_PRICE: Узнать цену
+  VIEW_PRODUCT: Ознакомиться с товаром
 
 uk:
   GET_PRICE: Дізнатись ціну
+  VIEW_PRODUCT: Ознайомитися з товаром
