@@ -42,3 +42,20 @@ ul.langswitcher a {
 .main .all-products-page .container .all-products-container .row .card .product-info .product-packing li span.icon-jar {
     background-image: url(../images/jar.png);
 }
+
+.main .all-products-page .container .all-products-container .row .card:hover .product-img {
+    box-shadow: 0 14px 15px #989898;
+}
+
+.main .all-products-page .container .all-products-container .row .card:hover .product-info {
+    box-shadow: 0 15px 10px #989898;
+}
+
+.main .single-page .page {
+    padding-left: 15px;
+}
+
+.main .single-page .page .title {
+    text-align: center;
+    text-indent: 0px;
+}

@@ -1,6 +1,7 @@
 
 {% block content %}
 <section class="inner">
+    <div id="test">{{ page.slider.title }}</div>
     <div class="owl-carousel owl-theme">
         {% for slider in page.header.slider %}
             <div class="carousel-item" style="background-image: url({{ page.media[slider.image].cache.url }})">
@@ -14,7 +15,7 @@
 
         <div class="carousel-item" style="background-image: url({{ theme_url }}/images/slider-1.png)">
             <div class="container d-flex flex-column justify-content-center">
-                <div class="carousel-item-title">Title</div>
+                <div class="carousel-item-title">настоящее удовольствие от икры</div>
                 <div class="carousel-item-content">Мы обеспечиваем продуктовый рынок качественными и полезными для здоровья продуктами по доступной цене.</div>
                 <a href="{{ base_url }}/products/" class="btn btn-lg">Ознакомиться с товаром</a>
             </div>
@@ -35,7 +36,6 @@
                 <a href="{{ base_url }}/products/" class="btn btn-lg">Ознакомиться с товаром</a>
             </div>
         </div>
-
     </div>
 
 </section>
