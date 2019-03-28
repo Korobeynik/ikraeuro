@@ -1,0 +1,19 @@
+{% extends 'partials/base.html.twig' %}
+
+
+{% block content %}
+    <section class="delivery">
+        <div class="container">
+            {% include 'partials/breadcrumb.html.twig' %}
+            <!-- /breadcrumbs -->
+            <h1 class="title title-lg text-center uppercase">{{ page.title }}</h1>
+            <div class="delivery-content">
+                {{ page.content }}
+                <a href="{{ base_url }}/products/" class="btn btn-lg">Ознакомиться с товаром</a>
+                <a href="{{ base_url }}" class="btn btn-lg">О компании</a>
+            </div>
+
+        </div>
+    </section>
+    <!-- /delivery -->
+{% endblock %}

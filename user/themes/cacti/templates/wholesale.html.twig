@@ -11,48 +11,23 @@
             <div class="row">
                 <div class="col-md-4 aside">
                     <div class="wholesale-products d-flex flex-wrap">
-                        <div class="aside-products-item d-flex flex-column align-items-center">
-                            <img src="{{ theme_url }}/images/caviar-2.png" alt="">
-                            <span>Белуги</span>
-                        </div>
-                        <!-- /aside-products-item -->
-                        <div class="aside-products-item d-flex flex-column align-items-center">
-                            <img src="{{ theme_url }}/images/caviar-2.png" alt="">
-                            <span>Белуги</span>
-                        </div>
-                        <!-- /aside-products-item -->
-                        <div class="aside-products-item d-flex flex-column align-items-center">
-                            <img src="{{ theme_url }}/images/caviar-2.png" alt="">
-                            <span>Белуги</span>
-                        </div>
-                        <!-- /aside-products-item -->
-                        <div class="aside-products-item d-flex flex-column align-items-center">
-                            <img src="{{ theme_url }}/images/caviar-2.png" alt="">
-                            <span>Белуги</span>
-                        </div>
-                        <!-- /aside-products-item -->
-                        <div class="aside-products-item d-flex flex-column align-items-center">
-                            <img src="{{ theme_url }}/images/caviar-2.png" alt="">
-                            <span>Белуги</span>
-                        </div>
-                        <!-- /aside-products-item -->
-                        <div class="aside-products-item d-flex flex-column align-items-center">
-                            <img src="{{ theme_url }}/images/caviar-2.png" alt="">
-                            <span>Белуги</span>
-                        </div>
+
+                        {% for products in page.header.products %}
+                            <div class="aside-products-item d-flex flex-column align-items-center">
+                                {% if products.image %}
+                                    {{ page.media[products.image] }}
+                                {% endif %}
+                                <span>{{ products.name }}</span>
+                            </div>
+                        {% endfor %}
+
                         <!-- /aside-products-item -->
                     </div>
                     <!-- /wholesale-products -->
                 </div>
                 <!-- /aside -->
                 <div class="col-md-8 wholesale-form">
-                    <h1 class="title title-lg">Икра - что это?</h1>
-                    <!-- /title -->
-                    <div class="wholesale-description">
-                        <p>Мы осуществляем оптовые продажи нашей продукции в те регионы Украины, в которых временно не имеем представителей из числа партнеров дистрибьюторов.</p>
-                        <p>Наши менеджеры будут рады рассказать Вам о наличии возможности прямойотгрузки для Вас, а также о маркетинговой и ценовой политике.</p>
-                        <p>В случае отсутствия возможности прямой отгрузки, мы обеспечим для Вас наиболее выгодные условия при отгрузке нашими партнерами в Вашем регионе.</p>
-                    </div>
+                   {{ page.content }}
                     <div class="wholesale-form-wrapper">
                         <h1 class="title title-lg text-center">Хотите стать оптовым покупателем?</h1>
                         <div class="sub-title text-center">
@@ -82,21 +57,23 @@
                     <!-- /wholesale-form -->
                 </div>
             </div>
-            <h1 class="title title-lg text-center">Варианты фасовки икры</h1>
+            <h1 class="title title-lg text-center">{{ header.packing_title }}</h1>
             <div class="packing-wrapper d-flex justify-content-center align-items-center flex-wrap">
                 <div class="packing-item d-flex flex-column align-items-center">
-                    <span class="packing-type">Стекло</span>
+                    <span class="packing-type">{{ header.tara}}</span>
                     <div class="card">
                         <div class="product-img d-flex justify-content-center">
-                            <img src="{{ theme_url }}/images/caviar-3.png" alt="">
+                            {{ page.media[header.tara_image] }}
                         </div>
                         <div class="product-info">
                             <div class="product-title text-center">
-                                <span>Кета</span>
+                                <span>{{ header.tara_name }}</span>
                             </div>
                             <!-- /product-title -->
                             <ul class="product-packing d-flex align-items-center justify-content-center flex-wrap">
-                                <li><span class="icon-weight"></span>100 мл</li>
+                                {% for tara_v in page.header.tara_v %}
+                                    <li><span class="icon-weight"></span>{{ tara_v.name }}</li>
+                                {% endfor %}
                             </ul>
                             <!-- /product-packing -->
                         </div>
@@ -104,21 +81,20 @@
                 </div>
                 <!-- /packing-item -->
                 <div class="packing-item d-flex flex-column align-items-center">
-                    <span class="packing-type">Пакет</span>
+                    <span class="packing-type">{{ header.tara2 }}</span>
                     <div class="card">
                         <div class="product-img d-flex justify-content-center">
-                            <img src="{{ theme_url }}/images/caviar-2.png" alt="">
+                            {{ page.media[header.tara_image2] }}
                         </div>
                         <div class="product-info">
                             <div class="product-title text-center">
-                                <span>Кета</span>
+                                <span>{{ header.tara_name2 }}</span>
                             </div>
                             <!-- /product-title -->
                             <ul class="product-packing d-flex align-items-center justify-content-center flex-wrap">
-                                <li><span class="icon-weight"></span>200 мл</li>
-                                <li><span class="icon-weight"></span>500 мл</li>
-                                <li><span class="icon-weight"></span>1000 мл</li>
-                                <li><span class="icon-weight"></span>2500 мл</li>
+                                {% for tara_v in page.header.tara_v2 %}
+                                    <li><span class="icon-weight"></span>{{ tara_v.name }}</li>
+                                {% endfor %}
                             </ul>
                             <!-- /product-packing -->
                         </div>
@@ -127,45 +103,26 @@
                 <!-- /packing-item -->
             </div>
             <!-- /packing-wrapper -->
-            <h1 class="title title-lg text-center">Преимущества сотрудничества с нами</h1>
+            <h1 class="title title-lg text-center"> {{ header.cooperation_title }}</h1>
             <div class="advantages d-flex justify-content-between align-items-center flex-wrap">
-                <div class="advantage-item d-flex flex-column align-items-center">
-                    <img src="{{ theme_url }}/images/price.png" alt="">
-                    <div class="advantage-title">Цена</div>
-                    <div class="advantage-description">
-                        <p>Цена завода-изготовителя</p>
+
+                {% for cooperation_list in page.header.cooperation_list %}
+                    <div class="advantage-item d-flex flex-column align-items-center">
+                        {% if cooperation_list.image %}
+                            {{ page.media[cooperation_list.image] }}
+                        {% endif %}
+                        <div class="advantage-title">{{ cooperation_list.name }}</div>
+                        <div class="advantage-description">
+                            <p>{{ cooperation_list.text }}</p>
+                        </div>
                     </div>
-                </div>
-                <!-- /advantage-item -->
-                <div class="advantage-item d-flex flex-column align-items-center">
-                    <img src="{{ theme_url }}/images/waranty.png" alt="">
-                    <div class="advantage-title">Гарантия</div>
-                    <div class="advantage-description">
-                        <p>Гарантия стабильности и регулярности поставок</p>
-                    </div>
-                </div>
-                <!-- /advantage-item -->
-                <div class="advantage-item d-flex flex-column align-items-center">
-                    <img src="{{ theme_url }}/images/safety.png" alt="">
-                    <div class="advantage-title">Безопасность</div>
-                    <div class="advantage-description">
-                        <p>Легальность и безопасность подтверждена сертификатом производителя и декларацией соответствия ISO 22 000 (НАССР)</p>
-                    </div>
-                </div>
-                <!-- /advantage-item -->
-                <div class="advantage-item d-flex flex-column align-items-center">
-                    <img src="{{ theme_url }}/images/in-touch.png" alt="">
-                    <div class="advantage-title">Всегда на связи</div>
-                    <div class="advantage-description">
-                        <p>Вы можете звонить в любое время и Вас проконсультуют</p>
-                    </div>
-                </div>
-                <!-- /advantage-item -->
+                {% endfor %}
+
             </div>
             <!-- /advantages -->
-            <h1 class="title title-lg text-center">Вся продукция завода сертифицирована</h1>
+            <h1 class="title title-lg text-center">{{ header.certificates_title }}</h1>
             <div class="sertificate text-center">
-                <img src="{{ theme_url }}/images/sertificate.png" alt="">
+                {{ page.media[header.certificates_image] }}
             </div>
             <!-- /sertificate -->
         </div>

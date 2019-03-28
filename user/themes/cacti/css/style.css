@@ -59,3 +59,7 @@ ul.langswitcher a {
     text-align: center;
     text-indent: 0px;
 }
+
+.main .wholesale .container .packing-wrapper .packing-item .card .product-info .product-packing li span.icon-weight {
+    background-image: url(../images/weight.png);
+}

@@ -9,6 +9,7 @@ if ( $method === 'POST' ) {
 	$project_name = trim($_POST["project_name"]);
 	$admin_email  = trim($_POST["admin_email"]);
 	$form_subject = trim($_POST["form_subject"]);
+	$product_name = trim($_POST["product_name"]);
 	$form_file = trim($_FILES['upload']['tmp_name'], $_FILES['upload']['name']);
 
 	foreach ( $_POST as $key => $value ) {
