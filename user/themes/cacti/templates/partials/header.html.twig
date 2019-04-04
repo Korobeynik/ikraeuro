@@ -1,0 +1,48 @@
+<!-- HEADER START -->
+<header class="header">
+    <div class="header-top">
+        <div class="container d-flex flex-wrap align-items-center">
+            <div class="header-logo mr-auto">
+                <a href="{{ base_url }}">
+                    <img src="{{ theme_url }}/images/logo.png" alt="">
+                </a>
+            </div>
+            <!-- /logo -->
+            <div class="header-description text-center ml-auto">
+                <p>Имитированная икра торговой марки</br>
+                    "Первая икорная компания"</br>
+                    Одна из лучших на рынке</p>
+            </div>
+            <!-- /site-description -->
+            <div class="header-contacts d-flex flex-column align-items-end  ml-auto">
+                <div class="header-phones d-flex">
+                    <div class="header-phone-item">
+                        <div class="d-flex align-items-center">
+                            <i class="icon icon-smartphone"></i>
+                            <div class="phones d-flex flex-column">
+                                <span>+38 (050) 325-22-22</span>
+                                <span>+38 (050) 325-44-44</span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /header-phone-item -->
+                    <div class="header-phone-item">
+                        <div class="d-flex align-items-center">
+                            <i class="icon icon-smartphone"></i>
+                            <div class="phones d-flex flex-column">
+                                <span>+38 (068) 767-44-44</span>
+                                <span>+38 (068) 767-99-99</span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /header-phone-item -->
+                </div>
+                <a data-modal data-target="call-back" href="#" class="btn-call-back btn btn-sm">{{ 'CALL_BACK'|t }}</a>
+            </div>
+        </div>
+    </div>
+    <!-- /header-top -->
+    {% include 'partials/navigation.html.twig' %}
+    <!-- /header-bottom -->
+</header>
+<!-- HEADER END -->

@@ -1,0 +1,22 @@
+{% extends 'partials/base.html.twig' %}
+
+{% block content %}
+    <section class="about-company single-page">
+        <div class="container">
+            <ul class="breadcrumbs d-flex">
+                <li><a href="{{ base_url }}">О компании</a></li>
+                <li>{{ page.title }}</li>
+            </ul>
+            <div class="row">
+                <div class="col-md-12 page">
+                    <h1 class="title title-lg">{{ page.title }}</h1>
+                    <!-- /title -->
+                    <div class="page-content">
+                        {{ page.content }}
+                    </div>
+                    <!-- /page-content -->
+                </div>
+            </div>
+        </div>
+    </section>
+{% endblock %}

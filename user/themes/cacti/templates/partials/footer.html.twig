@@ -1,0 +1,117 @@
+{#<footer id="footer">#}
+    {#<p class="small">{{ 'SITE.COPYRIGHT'|t("now"|date('Y')) }}</p>#}
+{#</footer>#}
+
+<!-- FOOTER START -->
+<footer class="footer">
+    <div class="container d-flex justify-content-between flex-wrap">
+        <div class="footer-info d-flex">
+            <div class="footer-logo mr-auto">
+                <a href="{{ base_url }}">
+                    <img src="{{ theme_url }}/images/logo.png" alt="">
+                </a>
+            </div>
+            <!-- /footer-logo -->
+            <div class="footer-description mr-auto">
+                <p>Имитированная икра торговой марки<br>
+                    "Первая икорная компания"<br>
+                    Одна из лучших на рынке</p>
+            </div>
+            <!-- /footer-description -->
+        </div>
+        <div class="footer-item">
+            <div class="title footer-title">
+                <span>информация</span>
+            </div>
+            <ul class="footer-nav">
+                {% for page in pages.children.visible %}
+                    {% set current_page = (page.active or page.activeChild) ? 'active' : '' %}
+                    <li>
+                        <a class="{{ current_page }}" href="{{ page.url }}">
+                            {% if page.header.icon %}<i class="fa fa-{{ page.header.icon }}"></i>{% endif %}
+                            {{ page.menu }}
+                        </a>
+                    </li>
+                {% endfor %}
+            </ul>
+        </div>
+        <!-- /footer-item -->
+        <div class="footer-item">
+            <div class="title footer-title">
+                <span>общие вопросы</span>
+            </div>
+            <ul class="footer-nav">
+                <li><a href="{{ base_url }}/delivery/">Доставка/Оплата</a></li>
+            </ul>
+        </div>
+        <!-- /footer-item -->
+        <div class="footer-item">
+            <div class="title footer-title">
+                <span>социальные сети</span>
+            </div>
+            <ul class="social-nav d-flex">
+                <li><a href="https://www.facebook.com/ikraeuro/" target="_blank" class="icon icon-facebook"></a></li>
+                <li><a href="https://www.instagram.com/ikraeuro/?hl=ru" target="_blank" class="icon icon-instagram"></a></li>
+            </ul>
+        </div>
+        <!-- /footer-item -->
+        <div class="footer-item">
+            <div class="title footer-title">
+                <span>телефоны для связи</span>
+            </div>
+            <div class="footer-contacts d-flex flex-column">
+                <div class="footer-phone-item">
+                    <div class="phone-item-wrap d-flex align-items-center">
+                        <i class="icon icon-smartphone"></i>
+                        <div class="phones d-flex flex-column">
+                            <span>+38 (068) 767-44-44</span>
+                            <span>+38 (068) 767-99-99</span>
+                        </div>
+                    </div>
+                </div>
+                <!-- /footer-phone-item -->
+                <div class="footer-phone-item">
+                    <div class="phone-item-wrap d-flex align-items-center">
+                        <i class="icon icon-smartphone"></i>
+                        <div class="phones d-flex flex-column">
+                            <span>+38 (050) 325-22-22</span>
+                            <span>+38 (050) 325-44-44</span>
+                        </div>
+                    </div>
+                </div>
+                <!-- /footer-phone-item -->
+                <a data-modal data-target="call-back" href="#" class="btn-call-back btn btn-sm">{{ 'CALL_BACK'|t }}</a>
+            </div>
+            <!-- /footer-contacts -->
+        </div>
+        <!-- /footer-item -->
+    </div>
+</footer>
+<!-- FOOTER END -->
+
+<!-- CALL BACK START -->
+<div class="modal" id="call-back">
+    <span class="close-modal icon icon-close"></span>
+    <h1 class="title title-lg text-center">Остались вопросы?</h1>
+    <div class="sub-title text-center">
+        <p>Оставьте заявку и наш менеджер свяжется</p>
+        <p>с Вами в ближайшее время</p>
+    </div>
+    <form id="form">
+        <input type="hidden" name="project_name" value="ikraeuro.com">
+        <input type="hidden" name="admin_email" value="zakupkaikra@gmail.com">
+        <input id="sendValue" type="hidden" name="form_subject" value="Заявка из сайта https://ikraeuro.com">
+        <div class="form-group">
+            <label class="icon icon-user"></label>
+            <input name="name" type="text" class="form-control" placeholder="Ваше имя*">
+        </div>
+        <div class="form-group">
+            <label class="icon icon-smartphone"></label>
+            <input name="phone" class="form-control" type="tel" placeholder="Ваш телефон*">
+            <input type="hidden" id="pName"  name="product_name" type="text" value="">
+        </div>
+        <button type="submit" class="btn btn-lg btn-block">Отправить</button>
+    </form>
+    <!-- /form -->
+</div>
+<!-- CALL BACK END -->

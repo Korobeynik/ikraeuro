@@ -1,0 +1,35 @@
+title: Slider
+'@extends':
+  type: default
+  context: blueprints://pages
+
+form:
+  fields:
+    tabs:
+      type: tabs
+      active: 1
+      fields:
+        content:
+          fields:
+            header.features10:
+              type: text
+              label: Features 1 slider
+            header.slider:
+              type: list
+              label: Слайдер
+              style: vertical
+              fields:
+                .image:
+                  type: filepicker
+                  folder: '@self'
+                  preview_images: true
+                  label: Изображение
+                  accept:
+                    - .png
+                    - .jpg
+                .title:
+                  type: input
+                  label: Заголовок слайда
+                .desc:
+                  type: input
+                  label: Описание слайда

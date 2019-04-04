@@ -1,0 +1,100 @@
+title: Products
+'@extends':
+  type: default
+  context: blueprints://pages
+
+form:
+  fields:
+    tabs:
+      type: tabs
+      active: 1
+      fields:
+        content:
+          fields:
+            header.product_base_descr:
+              type: editor
+              label: Продукция - описание
+            header.product_base:
+              type: list
+              label: Продукция
+              style: vertical
+              fields:
+                .image:
+                  type: filepicker
+                  folder: '@self'
+                  preview_images: true
+                  label: Фото
+                  accept:
+                    - .png
+                    - .jpg
+                .name:
+                  type: input
+                  label: Имя
+                .weight:
+                  type: input
+                  label: Вес
+                .packing:
+                  type: input
+                  label: Упаковка
+                .descr:
+                  type: textarea
+                  label: Описание
+                .brend:
+                  type: input
+                  label: Бренд
+                .country:
+                  type: input
+                  label: Страна производитель
+                .energy:
+                  type: input
+                  label: Энергетическая ценность
+                .life:
+                  type: input
+                  label: Срок харанения
+                .temp:
+                  type: input
+                  label: Хранение при t
+            header.product_vip_descr:
+              type: editor
+              label: Продукция VIP - описание
+            header.product_vip:
+              type: list
+              label: Продукция VIP
+              style: vertical
+              toggleable: true
+              fields:
+                .image:
+                  type: filepicker
+                  folder: '@self'
+                  preview_images: true
+                  label: Фото
+                  accept:
+                    - .png
+                    - .jpg
+                .name:
+                  type: input
+                  label: Имя
+                .weight:
+                  type: input
+                  label: Вес
+                .packing:
+                  type: input
+                  label: Упаковка
+                .descr:
+                  type: textarea
+                  label: Описание
+                .brend:
+                  type: input
+                  label: Бренд
+                .country:
+                  type: input
+                  label: Страна производитель
+                .energy:
+                  type: input
+                  label: Энергетическая ценность
+                .life:
+                  type: input
+                  label: Срок харанения
+                .temp:
+                  type: input
+                  label: Хранение при t
