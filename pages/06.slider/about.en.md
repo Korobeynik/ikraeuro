@@ -1,5 +1,5 @@
 ---
-title: About
+title: 'About TEST'
 visible: false
 features10: ''
 class: home
