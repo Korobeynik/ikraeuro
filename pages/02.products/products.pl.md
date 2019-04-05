@@ -46,6 +46,17 @@ product_base:
         energy: '145 kj/100 g.'
         life: '6 miesięcy'
         temp: 't 4° - 6° C'
+    -
+        image: osetrova_2.png
+        name: Jesiotra
+        weight: '100 g.'
+        packing: Szkło
+        descr: "Kawior z wodorostów jest bogaty w kwasy Omega 3 z olejem rybim.\r\nW smaku zbliżona do naturalnej"
+        brend: 'Pierwsza firma kawioru'
+        country: Ukraina
+        energy: '145 kj/100 g.'
+        life: '6 miesięcy'
+        temp: 't 4° - 6° C'
 product_vip_descr: 'Cena za zamówienie zależy od obecności i wielkości zamówienia. Minimalna ilość - od 500 kg.'
 class: home
 profile: true
