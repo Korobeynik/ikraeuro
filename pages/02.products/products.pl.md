@@ -91,7 +91,7 @@ product_base:
         life: '6 miesięcy'
         temp: 't 4° - 6° C'
     -
-        image: ketova1_2.png
+        image: ketova1_1.png
         name: Keta
         weight: '100 g. 200 g. 500 gr. 1000 g. 2500 g.'
         packing: Retorty-pakiet
@@ -113,7 +113,7 @@ product_base:
         life: '6 miesięcy'
         temp: 't 4° - 6° C'
     -
-        image: osetrova1_2.png
+        image: osetrova1_1.png
         name: Jesiotra
         weight: '100 g. 200 g. 500 gr. 1000 g. 2500 g.'
         packing: Retorty-pakiet
@@ -203,7 +203,7 @@ product_vip:
         life: '6 miesięcy'
         temp: 't 4° - 6° C'
     -
-        image: ketova1_1.png
+        image: ketova1_2.png
         name: 'Keta VIP'
         weight: '100 g. 200 g. 500 gr. 1000 g. 2500 g.'
         packing: Retorty-pakiet
@@ -214,7 +214,7 @@ product_vip:
         life: '6 miesięcy'
         temp: 't 4° - 6° C'
     -
-        image: osetrova1_1.png
+        image: osetrova1_2.png
         name: 'Jesiotra VIP'
         weight: '100 g. 200 g. 500 gr. 1000 g. 2500 g.'
         packing: Retorty-pakiet
