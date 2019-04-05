@@ -122,6 +122,9 @@ product_base:
         energy: '145 kJ/100 gr'
         life: '6 ay'
         temp: 't 4° - 6° C'
+product_vip:
+    -
+        image: lososeva_1.png
 class: home
 profile: true
 ---
