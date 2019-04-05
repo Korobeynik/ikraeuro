@@ -19,6 +19,11 @@ products:
     -
         image: горбуши.png
         name: Gorbusza
+packing_title: 'Opcje pakowania kawioru'
+tara: Szkło
+tara_image: lososeva.png
+tara2: Retorty-pakiet
+tara_image2: caviar.png
 class: home
 profile: true
 ---
