@@ -1,5 +1,5 @@
 ---
-title: 'O mnie'
+title: Kontakt
 class: home
 profile: true
 ---
