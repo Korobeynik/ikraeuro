@@ -1,5 +1,24 @@
 ---
 title: 'Dla nabywców hurtowych'
+products:
+    -
+        image: лососева.png
+        name: Łososia
+    -
+        image: осетровая.png
+        name: Jesiotra
+    -
+        image: форель.png
+        name: Pstrąga
+    -
+        image: белуга.png
+        name: Beługi
+    -
+        image: кеты.png
+        name: Keta
+    -
+        image: горбуши.png
+        name: Gorbusza
 class: home
 profile: true
 ---
