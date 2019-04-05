@@ -1,9 +1,11 @@
 ---
-title: 'Über mich'
+title: GROßABNEHMERN
 class: home
 profile: true
 ---
 
-Das ist eine Standard-Seite. Dies könnte eine **Über mich Seite** oder eine Seite mit verschiedenen Inhalten sein, das deine ganze Leistungen und Angebote zeigt, die du anbieten möchtest. 
+Wir führen den Großhandelsverkauf unserer Produkte in denen Regionen der Ukraine durch, wo wir vorübergehend keine Vertreter aus dem Kreis der Vertriebspartner haben.
 
-Diese Seite hat im Header das `profile: true` das bewirkt, dass deine persönlichen Informationen oben auf der Seite angezeigt werden.
+Unsere Manager informieren Sie gerne über die Möglichkeit einer Direktsendung sowie über Marketing- und Preisrichtlinien.
+
+Wenn keine direkte Lieferung möglich ist, erhalten Sie die günstigsten Versandbedingungen durch unsere Partner in Ihrer Region.
