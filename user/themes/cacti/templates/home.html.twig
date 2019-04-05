@@ -1,0 +1,59 @@
+{% embed 'partials/base.html.twig' %}
+
+    {% set collection = page.collection %}
+    {% set pagination = collection.params.pagination %}
+
+    {% set jscroll_init %}
+    $(document).ready(function() {
+        $('.infinite-scroll').jscroll({
+        autoTrigger: true,
+        nextSelector: '[rel="next"]'
+        });
+    });
+    {% endset %}
+
+    {% block javascripts %}
+        {{ parent() }}
+        {% do assets.addInlineJs(jscroll_init) %}
+    {% endblock %}
+
+    {% block header %}
+        {% include 'partials/header.html.twig' %}
+    {% endblock %}
+
+    {% block content %}
+
+       <main class="main">
+           <section class="about-company single-page">
+               <div class="container interval">
+                   <div class="row">
+                       <div class="col-md-4 aside" style="background-image: url({{ theme_url }}/images/banner-1.png)"></div>
+                       <div class="col-md-8 page">
+                           <h1 class="title title-lg">{{ page.title }}</h1>
+                           <!-- /title -->
+                           <div class="page-content">
+                             {{ content }}
+                           </div>
+                           <!-- /page-content -->
+                           <a href="{{ base_url }}/products/" class="btn btn-lg">{{ 'VIEW_PRODUCT'|t }}</a>
+                       </div>
+                   </div>
+               </div>
+           </section>
+           <!-- /about-company -->
+       </main>
+
+    {#<ul id="post-list" class="infinite-scroll">#}
+        {#{% for post in collection %}#}
+        {#{% include 'partials/post-item.html.twig' %}#}
+        {#{% endfor %}#}
+        {#{% if config.plugins.pagination.enabled and collection.params.pagination %}#}
+            {#{% include 'partials/load-more.html.twig' %}#}
+        {#{% endif %}#}
+    {#</ul>#}
+
+
+
+    {% endblock %}
+
+{% endembed %}

@@ -1,0 +1,119 @@
+title: Оптовым покупателям
+'@extends':
+  type: default
+  context: blueprints://pages
+
+form:
+  fields:
+    tabs:
+      type: tabs
+      active: 1
+      fields:
+        content:
+          fields:
+            header.test:
+              type: text
+              label: test 1 title
+            header.products_t:
+              type: section
+              title: Продукция
+            header.products:
+              type: list
+              style: vertical
+              fields:
+                .image:
+                  type: filepicker
+                  folder: '@self'
+                  preview_images: true
+                  label: Фото
+                  accept:
+                    - .png
+                    - .jpg
+                .name:
+                  type: input
+                  label: Имя
+            header.packing:
+              type: section
+              title: Варианты фасовки икры
+            header.packing_title:
+              type: text
+              label: Заголовок
+            header.tara:
+              type: text
+              label: Тара
+            header.tara_image:
+              type: filepicker
+              folder: '@self'
+              preview_images: true
+              label: Фото
+              accept:
+                - .png
+                - .jpg
+            header.tara_name:
+              type: text
+              label: Название товара
+            header.tara_v:
+              type: list
+              label: Варианты веса
+              fields:
+                .name:
+                  type: input
+                  label: Вес
+            header.tara2:
+              type: text
+              label: Тара
+            header.tara_image2:
+              type: filepicker
+              folder: '@self'
+              preview_images: true
+              label: Фото
+              accept:
+                - .png
+                - .jpg
+            header.tara_name2:
+              type: text
+              label: Название товара
+            header.tara_v2:
+              type: list
+              label: Варианты веса
+              fields:
+                .name:
+                  type: input
+                  label: Вес
+            header.cooperation:
+              type: section
+              title: Преимущества сотрудничества
+            header.cooperation_title:
+              type: text
+              title: Заголовок секции
+            header.cooperation_list:
+              type: list
+              fields:
+                .name:
+                  type: input
+                  label: Заголовок
+                .text:
+                  type: textarea
+                  label: Текст
+                .image:
+                  type: filepicker
+                  folder: '@self'
+                  preview_images: true
+                  label: Иконка
+                  accept:
+                    - .png
+                    - .jpg
+            header.certificates:
+              type: section
+              title: Сертификаты
+            header.certificates_title:
+              type: text
+              label: Заголовок
+            header.certificates_image:
+              type: filepicker
+              folder: '@self'
+              preview_images: true
+              label: Фото Сертификата
+              accept:
+                - .png
+                - .jpg

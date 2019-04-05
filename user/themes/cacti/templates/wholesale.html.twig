@@ -1,0 +1,130 @@
+{% extends 'partials/base.html.twig' %}
+
+
+{% block content %}
+    <section class="wholesale">
+        <div class="container">
+            <ul class="breadcrumbs d-flex">
+                <li><a href="{{ base_url }}">О компании</a></li>
+                <li>{{ page.title }}</li>
+            </ul>
+            <div class="row">
+                <div class="col-md-4 aside">
+                    <div class="wholesale-products d-flex flex-wrap">
+
+                        {% for products in page.header.products %}
+                            <div class="aside-products-item d-flex flex-column align-items-center">
+                                {% if products.image %}
+                                    {{ page.media[products.image] }}
+                                {% endif %}
+                                <span>{{ products.name }}</span>
+                            </div>
+                        {% endfor %}
+
+                        <!-- /aside-products-item -->
+                    </div>
+                    <!-- /wholesale-products -->
+                </div>
+                <!-- /aside -->
+                <div class="col-md-8 wholesale-form">
+                   {{ page.content }}
+                    <div class="wholesale-form-wrapper">
+                        <h1 class="title title-lg text-center">Хотите стать оптовым покупателем?</h1>
+                        <div class="sub-title text-center">
+                            <p>Оставьте заявку и наш менеджер свяжется</p>
+                            <p>с Вами в ближайшее время</p>
+                        </div>
+                        <form id="form3">
+                            <input type="hidden" name="project_name" value="ikraeuro.com">
+                            <input type="hidden" name="admin_email" value="zakupkaikra@gmail.com">
+                            <input type="hidden" name="form_subject" value="Хочу стать оптовым покупателем -  https://ikraeuro.com">
+                            <div class="form-group">
+                                <label class="icon icon-user"></label>
+                                <input name="name" type="text" class="form-control" placeholder="Ваше имя*">
+                            </div>
+                            <div class="form-group">
+                                <label class="icon icon-smartphone"></label>
+                                <input name="phone" class="form-control" type="tel" placeholder="Ваш телефон*">
+                            </div>
+                            <div class="form-group" type="email">
+                                <label class="icon icon-email"></label>
+                                <input name="email" class="form-control" placeholder="Ваша почта">
+                            </div>
+                            <button type="submit" class="btn btn-lg btn-block">Хочу стать оптовым покупателем</button>
+                        </form>
+                        <!-- /form -->
+                    </div>
+                    <!-- /wholesale-form -->
+                </div>
+            </div>
+            <h1 class="title title-lg text-center">{{ header.packing_title }}</h1>
+            <div class="packing-wrapper d-flex justify-content-center align-items-center flex-wrap">
+                <div class="packing-item d-flex flex-column align-items-center">
+                    <span class="packing-type">{{ header.tara}}</span>
+                    <div class="card">
+                        <div class="product-img d-flex justify-content-center">
+                            {{ page.media[header.tara_image] }}
+                        </div>
+                        <div class="product-info">
+                            <div class="product-title text-center">
+                                <span>{{ header.tara_name }}</span>
+                            </div>
+                            <!-- /product-title -->
+                            <ul class="product-packing d-flex align-items-center justify-content-center flex-wrap">
+                                {% for tara_v in page.header.tara_v %}
+                                    <li><span class="icon-weight"></span>{{ tara_v.name }}</li>
+                                {% endfor %}
+                            </ul>
+                            <!-- /product-packing -->
+                        </div>
+                    </div>
+                </div>
+                <!-- /packing-item -->
+                <div class="packing-item d-flex flex-column align-items-center">
+                    <span class="packing-type">{{ header.tara2 }}</span>
+                    <div class="card">
+                        <div class="product-img d-flex justify-content-center">
+                            {{ page.media[header.tara_image2] }}
+                        </div>
+                        <div class="product-info">
+                            <div class="product-title text-center">
+                                <span>{{ header.tara_name2 }}</span>
+                            </div>
+                            <!-- /product-title -->
+                            <ul class="product-packing d-flex align-items-center justify-content-center flex-wrap">
+                                {% for tara_v in page.header.tara_v2 %}
+                                    <li><span class="icon-weight"></span>{{ tara_v.name }}</li>
+                                {% endfor %}
+                            </ul>
+                            <!-- /product-packing -->
+                        </div>
+                    </div>
+                </div>
+                <!-- /packing-item -->
+            </div>
+            <!-- /packing-wrapper -->
+            <h1 class="title title-lg text-center"> {{ header.cooperation_title }}</h1>
+            <div class="advantages d-flex justify-content-between align-items-center flex-wrap">
+
+                {% for cooperation_list in page.header.cooperation_list %}
+                    <div class="advantage-item d-flex flex-column align-items-center">
+                        {% if cooperation_list.image %}
+                            {{ page.media[cooperation_list.image] }}
+                        {% endif %}
+                        <div class="advantage-title">{{ cooperation_list.name }}</div>
+                        <div class="advantage-description">
+                            <p>{{ cooperation_list.text }}</p>
+                        </div>
+                    </div>
+                {% endfor %}
+
+            </div>
+            <!-- /advantages -->
+            <h1 class="title title-lg text-center">{{ header.certificates_title }}</h1>
+            <div class="sertificate text-center">
+                {{ page.media[header.certificates_image] }}
+            </div>
+            <!-- /sertificate -->
+        </div>
+    </section>
+{% endblock %}

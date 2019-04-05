@@ -1,0 +1,16 @@
+title: Delivery
+'@extends':
+  type: default
+  context: blueprints://pages
+
+form:
+  fields:
+    tabs:
+      type: tabs
+      active: 1
+      fields:
+        content:
+          fields:
+            header.features1:
+              type: text
+              label: Features 1 title
