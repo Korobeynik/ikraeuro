@@ -1,6 +1,6 @@
 ---
 title: Produkt
-product_base_descr: 'Cena za zamówienie zależy od obecności i wielkości zamówienia. Minimalna ilość - od 500 kg.'
+product_base_descr: "<p>Cena za zamówienie</p>\r\n\r\n<p>zależy od obecności i wielkości zamówienia.</p>\r\n\r\n<p>Minimalna ilość - od 500 kg.>"
 product_base:
     -
         image: lososeva.png
@@ -123,7 +123,7 @@ product_base:
         energy: '145 kj/100 g.'
         life: '6 miesięcy'
         temp: 't 4° - 6° C'
-product_vip_descr: 'Cena za zamówienie zależy od obecności i wielkości zamówienia. Minimalna ilość - od 500 kg.'
+product_vip_descr: "<p>Cena za zamówienie</p>\r\n\r\n<p>zależy od obecności i wielkości zamówienia.</p>\r\n\r\n<p>Minimalna ilość - od 500 kg.>"
 product_vip:
     -
         image: lososeva_1.png
