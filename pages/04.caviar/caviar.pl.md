@@ -1,5 +1,5 @@
 ---
-title: 'O mnie'
+title: 'Kawior - co to jest?'
 class: home
 profile: true
 ---
