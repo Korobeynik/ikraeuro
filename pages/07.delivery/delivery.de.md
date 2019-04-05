@@ -1,14 +1,14 @@
 ---
-title: 'DELIVERY, PAYMENT TERMS'
+title: 'LIEFER-UND ZAHLUNGSBEDIENUNGEN'
 visible: false
 ---
 
-###### The delivery methods are to be agreed upon with the parties. 
+###### Liefermethoden erfolgen nach Vereinbarung der Parteien. 
 
-* The guarantee of stability and regularity of delivery. 
-* Legality and safety is approved by the certificate of compliance and declaration of conformity.
-* We provide the ISO 22 000 (НАССР) certificate.
+* Garantierte Stabilität und Regelmäßigkeit der Lieferung. 
+* Die Rechtmäßigkeit und Sicherheit wird durch eine Konformitätserklärung bestätigt. 
+* Wir bieten ein Sicherheitszertifikat nach ISO 22 000 (HACCP).
 
-###### Payment
+###### Zahlung
 
-We accept all payment cards, cash and cashless transfer, Privat24 and all bank card types
+Wir akzeptieren alle Arten von Zahlungskarten, Bargeld und Nicht-Barzahlungen, Privat24, alle Arten von Bankkarten
