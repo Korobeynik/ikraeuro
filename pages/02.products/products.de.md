@@ -1,5 +1,5 @@
 ---
-title: Produkte
+title: ' Produkte'
 product_base:
     -
         image: lososeva.png
@@ -92,6 +92,28 @@ product_base:
     -
         image: ketova1_1.png
         name: Ketalachs
+        weight: '100 g. 200 g. 500 g. 1000 g. 2500 g.'
+        packing: Verbundfolienbeutel
+        descr: "Algenkaviar ist reich an Omega 3 mit Fischöl\r\nNach dem Geschmack ist es fast natürlich"
+        brend: 'Erstes Kaviarunternehmen'
+        country: Ukraine
+        energy: '145 kJ/100 g.'
+        life: '6 Monate'
+        temp: 't 4° - 6° C'
+    -
+        image: gorbush1_1.png
+        name: Buckellachs
+        weight: '100 g. 200 g. 500 g. 1000 g. 2500 g.'
+        packing: Verbundfolienbeutel
+        descr: "Algenkaviar ist reich an Omega 3 mit Fischöl\r\nNach dem Geschmack ist es fast natürlich"
+        brend: 'Erstes Kaviarunternehmen'
+        country: Ukraine
+        energy: '145 kJ/100 g.'
+        life: '6 Monate'
+        temp: 't 4° - 6° C'
+    -
+        image: osetrova1_1.png
+        name: Stör
         weight: '100 g. 200 g. 500 g. 1000 g. 2500 g.'
         packing: Verbundfolienbeutel
         descr: "Algenkaviar ist reich an Omega 3 mit Fischöl\r\nNach dem Geschmack ist es fast natürlich"
