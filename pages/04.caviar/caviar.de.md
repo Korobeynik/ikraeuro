@@ -16,55 +16,57 @@ Aufgrund des Vorhandenseins von Agar-Agar (Algenextrakt), der als Basis verwende
 
 ###### Der imetierte Kaviar ist:
 
-**1 Внешний вид**
+**1 Nach dem Aussehen**
 
-*  Размер икринок, вязкость продукта, наличие «зародыша» («глазки») – все перечисленные свойства присущи имитированной  икре нашего производства, и полностью повторяют свойства натуральной. 
-*  Цвет - соответствует виду натуральной икры благодаря использованию природных красителей безопасных для здоровья  (бетта-каротин, кармин, экстракт паприки, активированный уголь, карамелизированный сахарный сироп).
-*  Консистенция вязкая, полностью повторяющая свойства натуральной икры.
-*  Вкус и запах максимально приближены к вкусу и запаху натуральной икры.
+*  Die Größe der Eier, die Viskosität des Produkts, das Vorhandensein eines "Keims" ("Augen") - alle aufgeführten Eigenschaften sind für unsere Produktion charakteristisch, und wiederholen völlig die Eigenschaften des natürlichen Kaviars. 
+*  Farbe - entspricht dem Aussehen von natürlichem Kaviar durch die Verwendung von gesundheitsfördernden natürlichen Farbstoffen
+(Beta-Carotin, Karmin, Paprikaextrakt, Aktivkohle, karamellisierter Zuckersirup).
+*  Die Konsistenz ist viskos und wiederholt die Eigenschaften von natürlichem Kaviar.
+*  Geschmack und Geruch sind denen von natürlichem Kaviar am nächsten.
     
 
-**2 Сырье**
+**2 Rohstoff**
 
-Натуральные ингредиенты Европейского производства соответствуют всем стандартам качества и безопасности.
+In Europa produzierte natürliche Inhaltsstoffe erfüllen alle Qualitäts- und Sicherheitsstandards. 
 
-Стоит упомянуть, что в состав продукта входит высококачественное, природное сырье:
-*   агар-агар
-*   рыбий жир
-*   мясо рыб
-*   бета-каротин
-*   экстракт паприки
-*   витамины и микроэлементы
-*   жирные кислоты омега-3 и омега-6 
-Поставки сырья осуществляются с периодичностью позволяющей обеспечить возможность использования его в минимально короткие сроки.
+Es ist erwähnenswert, dass das Produkt hochwertige, natürliche Rohstoffe enthält:
+*   Agar-Agar
+*   Fischöl
+*   Fischfleisch
+*   Beta-Carotin
+*   Paprikaextrakt
+*   Vitamine und Mineralstoffe
+*   Omega-3- und Omega-6-Fettsäuren 
+Die Lieferungen von Rohstoffen erfolgen in Intervallen, um die Möglichkeit zu gewährleisten sie in kürzester Zeit  verwenden zu können.
 
-**3 Полезные свойства**
+**3 Nützliche Eigenschaften**
 
-В основе оболочки икры лежит ламинария – бурая морская водоросль которая в свою очередь интересна наличием в своем составе альгиновой кислоты. 
-Содержание альгиновой кислоты в ламинарии колеблется от 15% до 30%. 
-Как и другие полисахариды природного происхождения, альгиновая кислота обладает целым рядом известных полезных свойств, но, в то же время, ее отличают и неповторимые,  присущие только ей качества.
+An der Basis der Kaviarschale befindet sich Kelp, der wiederum dank dem Anteil von Alginsäure sehr interessant ist. 
+Der Gehalt an Alginsäure im Kelp reicht von 15% bis 30%. 
+Wie andere Polysaccharide natürlichen Ursprungs besitzt Alginsäure eine Reihe bekannter wohltuender Eigenschaften. Gleichzeitig zeichnet sie sich jedoch nur durch ihre einzigartigen Eigenschaften aus.
 
-**Иммунный регулятор**
+**mmunregulator**
 
-Соли альгиновой кислоты обладают уникальными иммуностимулирующими способностями.   
-* Альгиналы стимулируют антимикробную, противогрибковую и противовирусную активность. 
-* Альгинаты очищают кровь и укрепляют стенки сосудов. Гипоаллергический эффект особенно  присущ анальгинату кальция, который благодаря содержанию ионов кальция укрепляет мембрану специализированных клеток хранилищ биологически активных веществ (витаминов, гормонов). 
-* Альгинаты стимулируют синтез антител местной специфической защиты (иммуноглобулинов класса А) что, в свою очередь, делает кожу и слизистые оболочки дыхательных путей и желудочно кишечного тракта более устойчивыми к патогенному воздействию микроорганизмов. 
-Таким удивительным является «альгинатный щит», который помогает организму самому бороться с инфекциями и различными недугами и активируют его внутренний потенциал, не дает проявиться аллергии.
+Alginsäuresalze besitzen einzigartige immunstimulierende Fähigkeiten.   
+* Alginale stimulieren antimikrobielle, antimykotische und antivirale Aktivitäten. 
+* Alginate reinigen das Blut und stärken die Wände der Blutgefäße.
+Die hypoallergische Wirkung ist vor allem dem Calcium-Analginat inhärent, das durch den Gehalt an Calciumionen die Membran von spezialisierten Zellen biologisch aktiver Vorratsspeicher (Vitamine, Hormone) stärkt. 
+* Alginate stimulieren die Synthese von Antikörpern mit lokalem spezifischem Schutz (Klasse A-Immunglobuline), wodurch Haut und Schleimhäute der Atemwege und des Gastrointestinaltrakts resistenter gegen die pathogenen Wirkungen von Mikroorganismen werden. 
+So überraschend ist der "Alginat-Schild", der dem Körper hilft, Infektionen und verschiedene Beschwerden zu bekämpfen und sein inneres Potenzial zu aktivieren, sodass keine Allergien auftreten können.
 
   
-Оружие против старости  и рака
+Schutz gegen Altern und Krebs
 
-Соли альгиновой кислоты являются наиболее сильными сорбентами холестерина и жирных кислот, снижая концепцию атерогенных веществ в крови. 
+Alginsäuresalze sind die stärksten Sorbentien von Cholesterin und Fettsäuren, wodurch das Konzept atherogener Substanzen im Blut reduziert wird. 
 
-Стимулируя антимикробную активность, альгинаты оказывают противоопухолевой эффект. 
+Durch die Stimulierung der antimikrobiellen Aktivität haben Alginate eine Antitumorwirkung. 
 
-Соли альгиновой кислоты обладают превосходными, противорадиационными свойствами. В основе которых лежит способность к избирательному связыванию и выведению из организма ионов тяжёлых металлов. 
+Alginsäuresalze besitzen ausgezeichnete Strahlenschutzeigenschaften.Die Basis dafür ist die Fähigkeit, Schwermetallionen selektiv zu binden und aus dem Körper auszuscheiden. 
 
-Альгинаты способны избирательно связывать и выводить из организма ионы стронция и связывают изотопы стронция взамен отдачи катионов кальция, а затем выводят их из желудочно-кишечного тракта. 
+Alginate sind in der Lage, Strontiumionen selektiv zu binden und aus dem Körper zu entfernen, Strontiumisotope zu binden, anstatt Kalziumkationen zurückzugeben, und sie dann aus dem Gastrointestinaltrakt zu entfernen. 
 
-Под влиянием альгината натрия содержание радиоактивного стронция в костной ткани снижается до 75%. 
+Unter dem Einfluss von Natriumalginat wird der Gehalt an radioaktivem Strontium im Knochengewebe auf 75% reduziert. 
 
-Альгинаты способствуют повышению общей сопротивляемости организма, активации восстановительных процессов в желудочно кишечном тракте и кроветворной системе. 
+Alginate tragen zu einer Erhöhung der Körperresistenz bei und aktivieren regenerative Prozesse im Gastrointestinaltrakt und im Blutbildungssystem. 
 
-Для очистки организма от радионулидов и тяжелых металлов достаточно порции в 10 гр. икры каждый день.
+Um den Körper von Radionuliden und Schwermetallen zu reinigen, genügen 10 g Kaviar pro Tag.
