@@ -1,9 +1,14 @@
 ---
-title: O mnie
+title: 'Dla nabywców hurtowych'
 class: home
 profile: true
 ---
 
-To jest standardowa strona. Może być traktowana jako **wizytówka** lub podsumowanie twoich talentów i zdolności, które chcesz wnieść do świata tworzenia stron internetowych.
+Prowadzimy sprzedaż hurtową naszych produktów do tych regionów 
+Polski, w których tymczasowo nie posiadamy przedstawicieli dystrybutorów partnerskich.
 
-Strona posiada atrybut nagłówka `profile: true` który sprawia że krótka notka jest wyświetlana na górze strony.
+Nasi menedżerowie z przyjemnością poinformują o możliwości wysyłki bezpośredniej 
+dla Ciebie, a także o polityce marketingowej i cenowej.
+
+W przypadku braku bezpośredniej wysyłki zapewnimy 
+najkorzystniejsze warunki wysyłki przez naszych partnerów w Twoim regionie.
