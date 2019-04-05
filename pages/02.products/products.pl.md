@@ -5,7 +5,18 @@ product_base:
     -
         image: lososeva.png
         name: Łososia
-        weight: '100 '
+        weight: '100 g.'
+        packing: Szkło
+        descr: "Kawior z wodorostów jest bogaty w kwasy Omega 3 z olejem rybim.\r\nW smaku zbliżona do naturalnej"
+        brend: 'Pierwsza firma kawioru'
+        country: Ukraina
+        energy: '145 kj/100 g.'
+        life: '6 miesięcy'
+        temp: 't 4° - 6° C'
+    -
+        image: ketova_2.png
+        name: Keta
+        weight: '100 g.'
         packing: Szkło
         descr: "Kawior z wodorostów jest bogaty w kwasy Omega 3 z olejem rybim.\r\nW smaku zbliżona do naturalnej"
         brend: 'Pierwsza firma kawioru'
