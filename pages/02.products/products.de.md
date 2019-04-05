@@ -122,6 +122,106 @@ product_base:
         energy: '145 kJ/100 g.'
         life: '6 Monate'
         temp: 't 4° - 6° C'
+product_vip:
+    -
+        image: lososeva_1.png
+        name: 'Lachs VIP'
+        weight: '100 g.'
+        packing: Glas
+        descr: "Algenkaviar ist reich an Omega 3 mit Fischöl\r\nNach dem Geschmack ist es fast natürlich"
+        brend: 'VIP DUKER VIP'
+        country: Ukraine
+        energy: '145 kJ/100 g.'
+        life: '6 Monate'
+        temp: 't 4° - 6° C'
+    -
+        image: ketova_1.png
+        name: 'Ketalachs VIP'
+        weight: '100 g.'
+        packing: Glas
+        descr: "Algenkaviar ist reich an Omega 3 mit Fischöl\r\nNach dem Geschmack ist es fast natürlich"
+        brend: 'VIP DUKER VIP'
+        country: Ukraine
+        energy: '145 kJ/100 g.'
+        life: '6 Monate'
+        temp: 't 4° - 6° C'
+    -
+        image: gorbusha_1.png
+        name: 'Buckellachs VIP'
+        weight: '100 g.'
+        packing: Glas
+        descr: "Algenkaviar ist reich an Omega 3 mit Fischöl\r\nNach dem Geschmack ist es fast natürlich"
+        brend: 'VIP DUKER VIP'
+        country: Ukraine
+        energy: '145 kJ/100 g.'
+        life: '6 Monate'
+        temp: 't 4° - 6° C'
+    -
+        image: foreleva_1.png
+        name: 'Forelle VIP'
+        weight: '100 g.'
+        packing: Glas
+        descr: "Algenkaviar ist reich an Omega 3 mit Fischöl\r\nNach dem Geschmack ist es fast natürlich"
+        brend: 'VIP DUKER VIP'
+        country: Ukraine
+        energy: '145 kJ/100 g.'
+        life: '6 Monate'
+        temp: 't 4° - 6° C'
+    -
+        image: osetrova_1.png
+        name: 'Stör VIP'
+        weight: '100 g.'
+        packing: Glas
+        descr: "Algenkaviar ist reich an Omega 3 mit Fischöl\r\nNach dem Geschmack ist es fast natürlich"
+        brend: 'VIP DUKER VIP'
+        country: Ukraine
+        energy: '145 kJ/100 g.'
+        life: '6 Monate'
+        temp: 't 4° - 6° C'
+    -
+        image: bilug_1.png
+        name: 'Belugа VIP'
+        weight: '100 g.'
+        packing: Glas
+        descr: "Algenkaviar ist reich an Omega 3 mit Fischöl\r\nNach dem Geschmack ist es fast natürlich"
+        brend: 'VIP DUKER VIP'
+        country: Ukraine
+        energy: '145 kJ/100 g.'
+        life: '6 Monate'
+        temp: 't 4° - 6° C'
+    -
+        image: shuki_1.png
+        name: 'Hecht VIP'
+        weight: '100 g.'
+        packing: Glas
+        descr: "Algenkaviar ist reich an Omega 3 mit Fischöl\r\nNach dem Geschmack ist es fast natürlich"
+        brend: 'VIP DUKER VIP'
+        country: Ukraine
+        energy: '145 kJ/100 g.'
+        life: '6 Monate'
+        temp: 't 4° - 6° C'
+    -
+        image: ketova1_2.png
+        name: 'Ketalachs VIP'
+        weight: '100 g. 200 g. 500 g. 1000 g. 2500 g.'
+        packing: Verbundfolienbeutel
+        descr: "Algenkaviar ist reich an Omega 3 mit Fischöl\r\nNach dem Geschmack ist es fast natürlich"
+        brend: 'VIP DUKER VIP'
+        country: Ukraine
+        energy: '145 kJ/100 g.'
+        life: '6 Monate'
+        temp: 't 4° - 6° C'
+    -
+        image: osetrova1_2.png
+        name: 'Stör VIP'
+        weight: '100 g. 200 g. 500 g. 1000 g. 2500 g.'
+        packing: Verbundfolienbeutel
+        descr: "Algenkaviar ist reich an Omega 3 mit Fischöl\r\nNach dem Geschmack ist es fast natürlich"
+        brend: 'VIP DUKER VIP'
+        country: Ukraine
+        energy: '145 kJ/100 g.'
+        life: '6 Monate'
+        temp: 't 4° - 6° C'
 class: home
 profile: true
 ---
