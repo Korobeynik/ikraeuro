@@ -1,5 +1,127 @@
 ---
-title: 'Турецкий заголовок'
+title: Ürünlerimiz
+product_base:
+    -
+        image: lososeva.png
+        name: Sombalığı
+        weight: '100 gr. '
+        packing: Cam
+        descr: "Su yosunlarından yapılan havyar balık yağlı Omega 3 ile zengin\r\nZevk özellikleri açısından gerçek havyara yakın"
+        brend: 'Pervaya ikornaya kompaniya'
+        country: Ukrayna
+        energy: '145 kJ/100 gr'
+        life: '6 ay'
+        temp: 't 4° - 6° C'
+    -
+        image: ketova_2.png
+        name: 'Köpek sombalığı'
+        weight: '100 gr. '
+        packing: Cam
+        descr: "Su yosunlarından yapılan havyar balık yağlı Omega 3 ile zengin\r\nZevk özellikleri açısından gerçek havyara yakın"
+        brend: 'Pervaya ikornaya kompaniya'
+        country: Ukrayna
+        energy: '145 kJ/100 gr'
+        life: '6 ay'
+        temp: 't 4° - 6° C'
+    -
+        image: gorbusha_2.png
+        name: 'Pembe sombalığı'
+        weight: '100 gr. '
+        packing: Cam
+        descr: "Su yosunlarından yapılan havyar balık yağlı Omega 3 ile zengin\r\nZevk özellikleri açısından gerçek havyara yakın"
+        brend: 'Pervaya ikornaya kompaniya'
+        country: Ukrayna
+        energy: '145 kJ/100 gr'
+        life: '6 ay'
+        temp: 't 4° - 6° C'
+    -
+        image: foreleva_2.png
+        name: Alabalık
+        weight: '100 gr. '
+        packing: Cam
+        descr: "Su yosunlarından yapılan havyar balık yağlı Omega 3 ile zengin\r\nZevk özellikleri açısından gerçek havyara yakın"
+        brend: 'Pervaya ikornaya kompaniya'
+        country: Ukrayna
+        energy: '145 kJ/100 gr'
+        life: '6 ay'
+        temp: 't 4° - 6° C'
+    -
+        image: osetrova_2.png
+        name: 'Mersin balığı'
+        weight: '100 gr. '
+        packing: Cam
+        descr: "Su yosunlarından yapılan havyar balık yağlı Omega 3 ile zengin\r\nZevk özellikleri açısından gerçek havyara yakın"
+        brend: 'Pervaya ikornaya kompaniya'
+        country: Ukrayna
+        energy: '145 kJ/100 gr'
+        life: '6 ay'
+        temp: 't 4° - 6° C'
+    -
+        image: bilug_2.png
+        name: 'Mersin morinası'
+        weight: '100 gr. '
+        packing: Cam
+        descr: "Su yosunlarından yapılan havyar balık yağlı Omega 3 ile zengin\r\nZevk özellikleri açısından gerçek havyara yakın"
+        brend: 'Pervaya ikornaya kompaniya'
+        country: Ukrayna
+        energy: '145 kJ/100 gr'
+        life: '6 ay'
+        temp: 't 4° - 6° C'
+    -
+        image: shuki_2.png
+        name: 'Turna balığı'
+        weight: '100 gr. '
+        packing: Cam
+        descr: "Su yosunlarından yapılan havyar balık yağlı Omega 3 ile zengin\r\nZevk özellikleri açısından gerçek havyara yakın"
+        brend: 'Pervaya ikornaya kompaniya'
+        country: Ukrayna
+        energy: '145 kJ/100 gr'
+        life: '6 ay'
+        temp: 't 4° - 6° C'
+    -
+        image: lososeva1_1.png
+        name: Sombalığı
+        weight: '100 gr. 200 gr. 500 gr. 1000 gr. 2500 gr'
+        packing: 'Otoklavlanabilir torba'
+        descr: "Su yosunlarından yapılan havyar balık yağlı Omega 3 ile zengin\r\nZevk özellikleri açısından gerçek havyara yakın"
+        brend: 'VIP DUKER VIP'
+        country: Ukrayna
+        energy: '145 kJ/100 gr'
+        life: '6 ay'
+        temp: 't 4° - 6° C'
+    -
+        image: ketova1_1.png
+        name: 'Köpek sombalığı'
+        weight: '100 gr. 200 gr. 500 gr. 1000 gr. 2500 gr'
+        packing: 'Otoklavlanabilir torba'
+        descr: "Su yosunlarından yapılan havyar balık yağlı Omega 3 ile zengin\r\nZevk özellikleri açısından gerçek havyara yakın"
+        brend: 'VIP DUKER VIP'
+        country: Ukrayna
+        energy: '145 kJ/100 gr'
+        life: '6 ay'
+        temp: 't 4° - 6° C'
+    -
+        image: gorbush1_1.png
+        name: 'Pembe sombalığı'
+        weight: '100 gr. 200 gr. 500 gr. 1000 gr. 2500 gr'
+        packing: 'Otoklavlanabilir torba'
+        descr: "Su yosunlarından yapılan havyar balık yağlı Omega 3 ile zengin\r\nZevk özellikleri açısından gerçek havyara yakın"
+        brend: 'VIP DUKER VIP'
+        country: Ukrayna
+        energy: '145 kJ/100 gr'
+        life: '6 ay'
+        temp: 't 4° - 6° C'
+    -
+        image: osetrova1_2.png
+        name: 'Mersin balığı'
+        weight: '100 gr. 200 gr. 500 gr. 1000 gr. 2500 gr'
+        packing: 'Otoklavlanabilir torba'
+        descr: "Su yosunlarından yapılan havyar balık yağlı Omega 3 ile zengin\r\nZevk özellikleri açısından gerçek havyara yakın"
+        brend: 'VIP DUKER VIP'
+        country: Ukrayna
+        energy: '145 kJ/100 gr'
+        life: '6 ay'
+        temp: 't 4° - 6° C'
 class: home
 profile: true
 ---
