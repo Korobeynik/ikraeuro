@@ -1,5 +1,6 @@
 ---
 title: ' Produkte'
+product_base_descr: "<p>Preis auf Anfrage</p>\r\n\r\n<p>je nach Verfügbarkeit und Auftragsvolumen.</p>\r\n\r\n<p>Das Mindestvolumen beträgt 500 kg.</p>"
 product_base:
     -
         image: lososeva.png
@@ -122,6 +123,7 @@ product_base:
         energy: '145 kJ/100 g.'
         life: '6 Monate'
         temp: 't 4° - 6° C'
+product_vip_descr: "<p>Preis auf Anfrage</p>\r\n\r\n<p>je nach Verfügbarkeit und Auftragsvolumen.</p>\r\n\r\n<p>Das Mindestvolumen beträgt 500 kg.</p>"
 product_vip:
     -
         image: lososeva_1.png
