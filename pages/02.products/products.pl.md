@@ -1,5 +1,7 @@
 ---
 title: 'O mnie'
+product_base_descr: 'Cena za zamówienie zależy od obecności i wielkości zamówienia. Minimalna ilość - od 500 kg.'
+product_vip_descr: 'Cena za zamówienie zależy od obecności i wielkości zamówienia. Minimalna ilość - od 500 kg.'
 class: home
 profile: true
 ---
