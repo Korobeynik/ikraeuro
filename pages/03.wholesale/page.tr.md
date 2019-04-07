@@ -1,9 +1,11 @@
 ---
-title: 'Турецкий заголовок'
+title: 'Toptan alıcıların dikkatine'
 class: home
 profile: true
 ---
 
-This is a standard page. It could be an **about page** or a summary page that outlines your many gifts and talents that you intend to bring to the world of web development.
+Biz, partner bayi arasından geçici olarak temsilcilerimizin olmadığı Türkiye bölgelerine ürünlerimizin toptan satışlarını gerçekleştirmekteyiz.
 
-This page has the header attribute `profile: true` that causes the bio information to be displayed at the top of the page.
+Bizim menajerlerimiz Sizin için doğrudan yükleme yapma imkanının var olduğunu ve bunun yanısıra pazarlama ve fiyat politikasını Size memnuniyetle anlatır.
+
+Doğrudan yükleme imkanının olmaması durumunda biz bölgenizdeki diğer partnerlerimize yükleme yapılırken Sizin için en cazip şartları sağlarız.
