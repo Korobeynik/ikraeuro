@@ -1,14 +1,14 @@
 ---
-title: 'DELIVERY, PAYMENT TERMS'
+title: 'TEDARİK, ÖDEME'
 visible: false
 ---
 
-###### The delivery methods are to be agreed upon with the parties. 
+###### Tedarik yöntemleri. 
 
-* The guarantee of stability and regularity of delivery. 
-* Legality and safety is approved by the certificate of compliance and declaration of conformity.
-* We provide the ISO 22 000 (НАССР) certificate.
+* ürün tedariği tarafların bu konuda kendi aralarında yaptığı anlaşmaya uygun olarak gerçekleştirilir. 
+* Yasallık ve güvenlik uygunluk sertifikası ve uygunluk beyannamesi ile doğrulanmaktadır.
+* Biz ISO 22 000 (НАССР) sertifikasını sağlıyoruz.
 
-###### Payment
+###### Ödeme
 
-We accept all payment cards, cash and cashless transfer, Privat24 and all bank card types
+Ödeme için her türlü ödeme kartları, nakit para ve banka havalesi, Privat24, her türlü banka kartları kabul edilmektedir
