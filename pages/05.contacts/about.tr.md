@@ -1,5 +1,5 @@
 ---
-title: 'Турецкий заголовок'
+title: İletişim
 class: home
 profile: true
 ---
