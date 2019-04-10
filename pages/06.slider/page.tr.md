@@ -1,5 +1,6 @@
 ---
 title: 'Турецкий заголовок'
+visible: false
 class: home
 profile: true
 ---
