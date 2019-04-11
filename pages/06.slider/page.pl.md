@@ -1,5 +1,6 @@
 ---
-title: O mnie
+title: 'O mnie'
+visible: false
 class: home
 profile: true
 ---
