@@ -203,7 +203,7 @@ product_vip:
         life: '6 months'
         temp: 't 4° - 6° C'
     -
-        image: ketova1_1.png
+        image: ketova1_2.png
         name: 'Chum VIP'
         weight: '200 gr. 500 gr. 1000 gr. 2500 gr.'
         packing: 'Retort pouch '
@@ -214,7 +214,7 @@ product_vip:
         life: '6 months'
         temp: 't 4° - 6° C'
     -
-        image: osetrova1_1.png
+        image: osetrova1_2.png
         name: 'Sturgeon VIP'
         weight: '200 gr. 500 gr. 1000 gr. 2500 gr.'
         packing: 'Retort pouch '
