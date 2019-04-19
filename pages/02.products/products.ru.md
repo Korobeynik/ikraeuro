@@ -226,7 +226,7 @@ product_vip:
         life: '6 мес.'
         temp: 't 4° - 6° C'
     -
-        image: bilug_1.png
+        image: gorbu_1.png
         name: 'Горбуша VIP'
         weight: '200 гр., 500 гр., 1000 гр., 2500 гр.'
         packing: Реторт-пакет
