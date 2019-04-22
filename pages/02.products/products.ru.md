@@ -13,7 +13,7 @@ product_base:
         country: Украина
         energy: '145 кДж/100г'
         life: '6 мес.'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: ketova_2.png
         name: Кетовая
@@ -24,7 +24,7 @@ product_base:
         country: Украина
         energy: '145 кДж/100г'
         life: '6 мес.'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: gorbusha_2.png
         name: Горбуши
@@ -35,7 +35,7 @@ product_base:
         country: Украина
         energy: '145 кДж/100г'
         life: '6 мес.'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: foreleva_2.png
         name: Форели
@@ -46,7 +46,7 @@ product_base:
         country: Украина
         energy: '145 кДж/100г'
         life: '6 мес.'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: osetrova_2.png
         name: Осетровая
@@ -57,7 +57,7 @@ product_base:
         country: Украина
         energy: '145 кДж/100г'
         life: '6 мес.'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: bilug_2.png
         name: Белуги
@@ -68,7 +68,7 @@ product_base:
         country: Украина
         energy: '145 кДж/100г'
         life: '6 мес.'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: shuki_2.png
         name: Щуки
@@ -79,7 +79,7 @@ product_base:
         country: Украина
         energy: '145 кДж/100г'
         life: '6 мес.'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: lososeva1_1.png
         name: Лососевая
@@ -90,7 +90,7 @@ product_base:
         country: Украина
         energy: '145 кДж/100г'
         life: '6 мес.'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: ketova1_1.png
         name: Кетовая
@@ -101,7 +101,7 @@ product_base:
         country: Украина
         energy: '145 кДж/100г'
         life: '6 мес.'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: gorbush1_1.png
         name: Горбуши
@@ -112,7 +112,7 @@ product_base:
         country: Украина
         energy: '145 кДж/100г'
         life: '6 мес.'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: osetrova1_1.png
         name: Осетровая
@@ -123,7 +123,7 @@ product_base:
         country: Украина
         energy: '145 кДж/100г'
         life: '6 мес.'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
 product_vip_descr: "<p>Цена по запросу</p>\r\n\r\n<p>в зависимости от наличия и объема заказа.</p>\r\n\r\n"
 product_vip:
     -
@@ -136,7 +136,7 @@ product_vip:
         country: Украина
         energy: '145 кДж/100г'
         life: '6 мес.'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: ketova_1.png
         name: 'Кетовая VIP'
@@ -147,7 +147,7 @@ product_vip:
         country: Украина
         energy: '145 кДж/100г'
         life: '6 мес.'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: gorbusha_1.png
         name: 'Горбуши VIP'
@@ -158,7 +158,7 @@ product_vip:
         country: Украина
         energy: '145 кДж/100г'
         life: '6 мес.'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: foreleva_1.png
         name: 'Форели VIP'
@@ -169,7 +169,7 @@ product_vip:
         country: Украина
         energy: '145 кДж/100г'
         life: '6 мес.'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: osetrova_1.png
         name: 'Осетровая VIP'
@@ -180,7 +180,7 @@ product_vip:
         country: Украина
         energy: '145 кДж/100г'
         life: '6 мес.'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: bilug_1.png
         name: 'Белуги VIP'
@@ -191,7 +191,7 @@ product_vip:
         country: Украина
         energy: '145 кДж/100г'
         life: '6 мес.'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: shuki_1.png
         name: 'Щуки VIP'
@@ -202,7 +202,7 @@ product_vip:
         country: Украина
         energy: '145 кДж/100г'
         life: '6 мес.'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: ketova1_2.png
         name: 'Кетовая VIP'
@@ -213,7 +213,7 @@ product_vip:
         country: Украина
         energy: '145 кДж/100г'
         life: '6 мес.'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: osetrova1_2.png
         name: 'Осетровая VIP'
@@ -224,7 +224,7 @@ product_vip:
         country: Украина
         energy: '145 кДж/100г'
         life: '6 мес.'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: gorbu_1.png
         name: 'Горбуша VIP'
@@ -235,7 +235,7 @@ product_vip:
         country: Украина
         energy: '145 кДж/100г'
         life: '6 мес.'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
 cache_enable: false
 class: home
 profile: true
