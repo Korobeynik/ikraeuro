@@ -102,7 +102,7 @@ product_base:
         life: '6 місяців'
         temp: 't 4 ° - 6 ° C'
     -
-        image: gorbush1_1.png
+        image: gorbu_1.png
         name: 'Ікра "Горбуші"'
         weight: '200 гр., 500 гр., 1000 гр., 2500 гр.'
         packing: Реторт-пакет
