@@ -1,5 +1,6 @@
 ---
 title: Продукція
+media_order: 'bilug_1.png,bilug_2.png,caviar-2.png,caviar-3.png,caviar.png,foreleva_1.png,foreleva_2.png,gorbusha_1.png,gorbusha_2.png,gorbu_1.png,ketova1_1.png,ketova1_2.png,ketova_1.png,ketova_2.png,lososeva.png,lososeva1_1.png,lososeva_1.png,osetrova1_1.png,osetrova1_2.png,osetrova_1.png,osetrova_2.png,shuki_1.png,shuki_2.png,gorbush1_1.png'
 product_base_descr: "<p>Ціна, під запит,</p>\r\n\r\n<p>в залежності від наявності та обсягу замовлення.</p>\r\n\r\n<p>Мінімальний обсяг – від 500 кг.</p>\r\n"
 product_base:
     -
@@ -102,7 +103,7 @@ product_base:
         life: '6 місяців'
         temp: 't 4 ° - 6 ° C'
     -
-        image: gorbu_1.png
+        image: gorbush1_1.png
         name: 'Ікра "Горбуші"'
         weight: '200 гр., 500 гр., 1000 гр., 2500 гр.'
         packing: Реторт-пакет
