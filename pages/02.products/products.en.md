@@ -12,7 +12,7 @@ product_base:
         country: Ukraine
         energy: '145 kJ/100 gr.'
         life: '6 months'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: ketova_2.png
         name: Chum
@@ -34,7 +34,7 @@ product_base:
         country: Ukraine
         energy: '145 kJ/100 gr.'
         life: '6 months'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: foreleva_2.png
         name: Trout
@@ -45,7 +45,7 @@ product_base:
         country: Ukraine
         energy: '145 kJ/100 gr.'
         life: '6 months'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: osetrova_2.png
         name: Sturgeon
@@ -56,7 +56,7 @@ product_base:
         country: Ukraine
         energy: '145 kJ/100 gr.'
         life: '6 months'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: bilug_2.png
         name: Beluga
@@ -67,7 +67,7 @@ product_base:
         country: Ukraine
         energy: '145 kJ/100 gr.'
         life: '6 months'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: shuki_2.png
         name: Pike
@@ -78,7 +78,7 @@ product_base:
         country: Ukraine
         energy: '145 kJ/100 gr.'
         life: '6 months'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: lososeva1_1.png
         name: Salmon
@@ -89,7 +89,7 @@ product_base:
         country: Ukraine
         energy: '145 kJ/100 gr.'
         life: '6 months'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: ketova1_1.png
         name: Chum
@@ -100,7 +100,7 @@ product_base:
         country: Ukraine
         energy: '145 kJ/100 gr.'
         life: '6 months'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: gorbush1_1.png
         name: 'Humpback salmon'
@@ -111,7 +111,7 @@ product_base:
         country: Ukraine
         energy: '145 kJ/100 gr.'
         life: '6 months'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: osetrova1_1.png
         name: Sturgeon
@@ -122,7 +122,7 @@ product_base:
         country: Ukraine
         energy: '145 kJ/100 gr.'
         life: '6 months'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
 product_vip_descr: "<p> Price on application </ p>\r\n\r\n<p> depending on the availability and size of the order.  </ p>\r\n\r\n<p> The minimum volume – 500 kg. </ p>"
 product_vip:
     -
@@ -135,7 +135,7 @@ product_vip:
         country: Ukraine
         energy: '145 kJ/100 gr.'
         life: '6 months'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: ketova_1.png
         name: 'Chum VIP'
@@ -146,7 +146,7 @@ product_vip:
         country: Ukraine
         energy: '145 kJ/100 gr.'
         life: '6 months'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: gorbusha_1.png
         name: 'Humpback salmon VIP'
@@ -157,7 +157,7 @@ product_vip:
         country: Ukraine
         energy: '145 kJ/100 gr.'
         life: '6 months'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: foreleva_1.png
         name: 'Trout VIP'
@@ -168,7 +168,7 @@ product_vip:
         country: Ukraine
         energy: '145 kJ/100 gr.'
         life: '6 months'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: osetrova_1.png
         name: 'Sturgeon VIP'
@@ -179,7 +179,7 @@ product_vip:
         country: Ukraine
         energy: '145 kJ/100 gr.'
         life: '6 months'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: bilug_1.png
         name: 'Beluga VIP'
@@ -190,7 +190,7 @@ product_vip:
         country: Ukraine
         energy: '145 kJ/100 gr.'
         life: '6 months'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: shuki_1.png
         name: 'Pike VIP'
@@ -201,7 +201,7 @@ product_vip:
         country: Ukraine
         energy: '145 kJ/100 gr.'
         life: '6 months'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: ketova1_2.png
         name: 'Chum VIP'
@@ -212,7 +212,7 @@ product_vip:
         country: Ukraine
         energy: '145 kJ/100 gr.'
         life: '6 months'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: osetrova1_2.png
         name: 'Sturgeon VIP'
@@ -223,7 +223,7 @@ product_vip:
         country: Ukraine
         energy: '145 kJ/100 gr.'
         life: '6 months'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
 class: home
 profile: true
 ---
