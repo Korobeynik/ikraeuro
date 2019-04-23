@@ -11,7 +11,7 @@ product_base:
         country: Ukrayna
         energy: '145 kJ/100 gr'
         life: '6 ay'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: ketova_2.png
         name: 'Köpek sombalığı'
@@ -22,7 +22,7 @@ product_base:
         country: Ukrayna
         energy: '145 kJ/100 gr'
         life: '6 ay'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: gorbusha_2.png
         name: 'Pembe sombalığı'
@@ -33,7 +33,7 @@ product_base:
         country: Ukrayna
         energy: '145 kJ/100 gr'
         life: '6 ay'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: foreleva_2.png
         name: Alabalık
@@ -44,7 +44,7 @@ product_base:
         country: Ukrayna
         energy: '145 kJ/100 gr'
         life: '6 ay'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: osetrova_2.png
         name: 'Mersin balığı'
@@ -55,7 +55,7 @@ product_base:
         country: Ukrayna
         energy: '145 kJ/100 gr'
         life: '6 ay'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: bilug_2.png
         name: 'Mersin morinası'
@@ -66,7 +66,7 @@ product_base:
         country: Ukrayna
         energy: '145 kJ/100 gr'
         life: '6 ay'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: shuki_2.png
         name: 'Turna balığı'
@@ -77,7 +77,7 @@ product_base:
         country: Ukrayna
         energy: '145 kJ/100 gr'
         life: '6 ay'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: lososeva1_1.png
         name: Sombalığı
@@ -88,7 +88,7 @@ product_base:
         country: Ukrayna
         energy: '145 kJ/100 gr'
         life: '6 ay'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: ketova1_1.png
         name: 'Köpek sombalığı'
@@ -99,7 +99,7 @@ product_base:
         country: Ukrayna
         energy: '145 kJ/100 gr'
         life: '6 ay'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: gorbush1_1.png
         name: 'Pembe sombalığı'
@@ -110,7 +110,7 @@ product_base:
         country: Ukrayna
         energy: '145 kJ/100 gr'
         life: '6 ay'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: osetrova1_2.png
         name: 'Mersin balığı'
@@ -121,7 +121,7 @@ product_base:
         country: Ukrayna
         energy: '145 kJ/100 gr'
         life: '6 ay'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
 product_vip:
     -
         image: lososeva_1.png
@@ -133,7 +133,7 @@ product_vip:
         country: Ukrayna
         energy: '145 kJ/100 gr'
         life: '6 ay'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: ketova_1.png
         name: 'Köpek sombalığı VIP'
@@ -144,7 +144,7 @@ product_vip:
         country: Ukrayna
         energy: '145 kJ/100 gr'
         life: '6 ay'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: gorbusha_1.png
         name: 'Pembe sombalığı VIP'
@@ -155,7 +155,7 @@ product_vip:
         country: Ukrayna
         energy: '145 kJ/100 gr'
         life: '6 ay'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: foreleva_1.png
         name: 'Alabalık VIP'
@@ -166,7 +166,7 @@ product_vip:
         country: Ukrayna
         energy: '145 kJ/100 gr'
         life: '6 ay'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: osetrova_1.png
         name: 'Mersin balığı VIP'
@@ -177,7 +177,7 @@ product_vip:
         country: Ukrayna
         energy: '145 kJ/100 gr'
         life: '6 ay'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: bilug_1.png
         name: 'Mersin morinası VIP'
@@ -188,7 +188,7 @@ product_vip:
         country: Ukrayna
         energy: '145 kJ/100 gr'
         life: '6 ay'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: shuki_1.png
         name: 'Turna balığı VIP'
@@ -199,7 +199,7 @@ product_vip:
         country: Ukrayna
         energy: '145 kJ/100 gr'
         life: '6 ay'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: ketova1_2.png
         name: 'Köpek sombalığı VIP'
@@ -210,7 +210,7 @@ product_vip:
         country: Ukrayna
         energy: '145 kJ/100 gr'
         life: '6 ay'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: osetrova1_2.png
         name: 'Mersin balığı VIP'
@@ -221,7 +221,7 @@ product_vip:
         country: Ukrayna
         energy: '145 kJ/100 gr'
         life: '6 ay'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
 class: home
 profile: true
 ---
