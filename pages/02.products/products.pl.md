@@ -23,7 +23,7 @@ product_base:
         country: Ukraina
         energy: '145 kj/100 g.'
         life: '6 miesięcy'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: gorbusha_2.png
         name: Gorbusza
