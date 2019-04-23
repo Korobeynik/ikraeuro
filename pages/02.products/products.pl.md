@@ -12,7 +12,7 @@ product_base:
         country: Ukraina
         energy: '145 kj/100 g.'
         life: '6 miesięcy'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: ketova_2.png
         name: Keta
@@ -34,7 +34,7 @@ product_base:
         country: Ukraina
         energy: '145 kj/100 g.'
         life: '6 miesięcy'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: foreleva_2.png
         name: Pstrąga
@@ -45,7 +45,7 @@ product_base:
         country: Ukraina
         energy: '145 kj/100 g.'
         life: '6 miesięcy'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: osetrova_2.png
         name: Jesiotra
@@ -56,7 +56,7 @@ product_base:
         country: Ukraina
         energy: '145 kj/100 g.'
         life: '6 miesięcy'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: bilug_2.png
         name: Beługi
@@ -67,7 +67,7 @@ product_base:
         country: Ukraina
         energy: '145 kj/100 g.'
         life: '6 miesięcy'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: shuki_2.png
         name: Szczupaka
@@ -78,7 +78,7 @@ product_base:
         country: Ukraina
         energy: '145 kj/100 g.'
         life: '6 miesięcy'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: lososeva1_1.png
         name: Łososia
@@ -89,7 +89,7 @@ product_base:
         country: Ukraina
         energy: '145 kj/100 g.'
         life: '6 miesięcy'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: ketova1_1.png
         name: Keta
@@ -100,7 +100,7 @@ product_base:
         country: Ukraina
         energy: '145 kj/100 g.'
         life: '6 miesięcy'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: gorbush1_1.png
         name: Gorbusza
@@ -111,7 +111,7 @@ product_base:
         country: Ukraina
         energy: '145 kj/100 g.'
         life: '6 miesięcy'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: osetrova1_1.png
         name: Jesiotra
@@ -122,7 +122,7 @@ product_base:
         country: Ukraina
         energy: '145 kj/100 g.'
         life: '6 miesięcy'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
 product_vip_descr: "<p>Cena za zamówienie</p>\r\n\r\n<p>zależy od obecności i wielkości zamówienia.</p>\r\n\r\n<p>Minimalna ilość - od 500 kg.</p>"
 product_vip:
     -
@@ -135,7 +135,7 @@ product_vip:
         country: Ukraina
         energy: '145 kj/100 g.'
         life: '6 miesięcy'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: ketova_1.png
         name: 'Keta VIP'
@@ -146,7 +146,7 @@ product_vip:
         country: Ukraina
         energy: '145 kj/100 g.'
         life: '6 miesięcy'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: gorbusha_1.png
         name: 'Gorbusza VIP'
@@ -157,7 +157,7 @@ product_vip:
         country: Ukraina
         energy: '145 kj/100 g.'
         life: '6 miesięcy'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: foreleva_1.png
         name: 'Pstrąga VIP'
@@ -168,7 +168,7 @@ product_vip:
         country: Ukraina
         energy: '145 kj/100 g.'
         life: '6 miesięcy'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: osetrova_1.png
         name: 'Jesiotra VIP'
@@ -179,7 +179,7 @@ product_vip:
         country: Ukraina
         energy: '145 kj/100 g.'
         life: '6 miesięcy'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: bilug_1.png
         name: 'Beługi VIP'
@@ -190,7 +190,7 @@ product_vip:
         country: Ukraina
         energy: '145 kj/100 g.'
         life: '6 miesięcy'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: shuki_1.png
         name: 'Szczupaka VIP'
@@ -201,7 +201,7 @@ product_vip:
         country: Ukraina
         energy: '145 kj/100 g.'
         life: '6 miesięcy'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: ketova1_2.png
         name: 'Keta VIP'
@@ -212,7 +212,7 @@ product_vip:
         country: Ukraina
         energy: '145 kj/100 g.'
         life: '6 miesięcy'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: osetrova1_2.png
         name: 'Jesiotra VIP'
@@ -223,7 +223,7 @@ product_vip:
         country: Ukraina
         energy: '145 kj/100 g.'
         life: '6 miesięcy'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
 class: home
 profile: true
 ---
