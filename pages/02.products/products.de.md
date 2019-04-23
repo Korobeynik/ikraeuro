@@ -12,7 +12,7 @@ product_base:
         country: Ukraine
         energy: '145 kJ/100 g.'
         life: '6 Monate'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: ketova_2.png
         name: Ketalachs
@@ -23,7 +23,7 @@ product_base:
         country: Ukraine
         energy: '145 kJ/100 g.'
         life: '6 Monate'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: gorbusha_2.png
         name: Buckellachs
@@ -34,7 +34,7 @@ product_base:
         country: Ukraine
         energy: '145 kJ/100 g.'
         life: '6 Monate'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: foreleva_2.png
         name: Forelle
@@ -45,7 +45,7 @@ product_base:
         country: Ukraine
         energy: '145 kJ/100 g.'
         life: '6 Monate'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: osetrova_2.png
         name: Stör
@@ -56,7 +56,7 @@ product_base:
         country: Ukraine
         energy: '145 kJ/100 g.'
         life: '6 Monate'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: bilug_2.png
         name: Belugа
@@ -67,7 +67,7 @@ product_base:
         country: Ukraine
         energy: '145 kJ/100 g.'
         life: '6 Monate'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: shuki_2.png
         name: Hecht
@@ -78,7 +78,7 @@ product_base:
         country: Ukraine
         energy: '145 kJ/100 g.'
         life: '6 Monate'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: lososeva1_1.png
         name: Lachs
@@ -89,7 +89,7 @@ product_base:
         country: Ukraine
         energy: '145 kJ/100 g.'
         life: '6 Monate'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: ketova1_1.png
         name: Ketalachs
@@ -100,7 +100,7 @@ product_base:
         country: Ukraine
         energy: '145 kJ/100 g.'
         life: '6 Monate'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: gorbush1_1.png
         name: Buckellachs
@@ -111,7 +111,7 @@ product_base:
         country: Ukraine
         energy: '145 kJ/100 g.'
         life: '6 Monate'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: osetrova1_1.png
         name: Stör
@@ -122,7 +122,7 @@ product_base:
         country: Ukraine
         energy: '145 kJ/100 g.'
         life: '6 Monate'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
 product_vip_descr: "<p>Preis auf Anfrage</p>\r\n\r\n<p>je nach Verfügbarkeit und Auftragsvolumen.</p>\r\n\r\n<p>Das Mindestvolumen beträgt 500 kg.</p>"
 product_vip:
     -
@@ -135,7 +135,7 @@ product_vip:
         country: Ukraine
         energy: '145 kJ/100 g.'
         life: '6 Monate'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: ketova_1.png
         name: 'Ketalachs VIP'
@@ -146,7 +146,7 @@ product_vip:
         country: Ukraine
         energy: '145 kJ/100 g.'
         life: '6 Monate'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: gorbusha_1.png
         name: 'Buckellachs VIP'
@@ -157,7 +157,7 @@ product_vip:
         country: Ukraine
         energy: '145 kJ/100 g.'
         life: '6 Monate'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: foreleva_1.png
         name: 'Forelle VIP'
@@ -168,7 +168,7 @@ product_vip:
         country: Ukraine
         energy: '145 kJ/100 g.'
         life: '6 Monate'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: osetrova_1.png
         name: 'Stör VIP'
@@ -179,7 +179,7 @@ product_vip:
         country: Ukraine
         energy: '145 kJ/100 g.'
         life: '6 Monate'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: bilug_1.png
         name: 'Belugа VIP'
@@ -190,7 +190,7 @@ product_vip:
         country: Ukraine
         energy: '145 kJ/100 g.'
         life: '6 Monate'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: shuki_1.png
         name: 'Hecht VIP'
@@ -201,7 +201,7 @@ product_vip:
         country: Ukraine
         energy: '145 kJ/100 g.'
         life: '6 Monate'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: ketova1_2.png
         name: 'Ketalachs VIP'
@@ -212,7 +212,7 @@ product_vip:
         country: Ukraine
         energy: '145 kJ/100 g.'
         life: '6 Monate'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
     -
         image: osetrova1_2.png
         name: 'Stör VIP'
@@ -223,7 +223,7 @@ product_vip:
         country: Ukraine
         energy: '145 kJ/100 g.'
         life: '6 Monate'
-        temp: 't 4° - 6° C'
+        temp: 't 2° - 6° C'
 class: home
 profile: true
 ---
