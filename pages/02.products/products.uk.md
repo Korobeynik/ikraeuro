@@ -13,7 +13,7 @@ product_base:
         country: Україна
         energy: '145 кДж / 100 гр.'
         life: '6 місяців'
-        temp: 't 4 ° - 6 ° C'
+        temp: 't 2 ° - 6 ° C'
     -
         image: ketova_2.png
         name: 'Ікра "Кетова"'
@@ -24,7 +24,7 @@ product_base:
         country: Україна
         energy: '145 кДж / 100 гр.'
         life: '6 місяців'
-        temp: 't 4 ° - 6 ° C'
+        temp: 't 2 ° - 6 ° C'
     -
         image: gorbusha_2.png
         name: 'Ікра "Горбуші"'
@@ -35,7 +35,7 @@ product_base:
         country: Україна
         energy: '145 кДж / 100 гр.'
         life: '6 місяців'
-        temp: 't 4 ° - 6 ° C'
+        temp: 't 2 ° - 6 ° C'
     -
         image: foreleva_2.png
         name: 'Ікра "Форелева"'
@@ -46,7 +46,7 @@ product_base:
         country: Україна
         energy: '145 кДж / 100 гр.'
         life: '6 місяців'
-        temp: 't 4 ° - 6 ° C'
+        temp: 't 2 ° - 6 ° C'
     -
         image: osetrova_2.png
         name: 'Ікра "Осетрова"'
@@ -57,7 +57,7 @@ product_base:
         country: Україна
         energy: '145 кДж / 100 гр.'
         life: '6 місяців'
-        temp: 't 4 ° - 6 ° C'
+        temp: 't 2 ° - 6 ° C'
     -
         image: bilug_2.png
         name: 'Ікра "Білуги"'
@@ -68,7 +68,7 @@ product_base:
         country: Україна
         energy: '145 кДж / 100 гр.'
         life: '6 місяців'
-        temp: 't 4 ° - 6 ° C'
+        temp: 't 2 ° - 6 ° C'
     -
         image: shuki_2.png
         name: 'Ікра "Щуки"'
@@ -79,7 +79,7 @@ product_base:
         country: Україна
         energy: '145 кДж / 100 гр.'
         life: '6 місяців'
-        temp: 't 4 ° - 6 ° C'
+        temp: 't 2 ° - 6 ° C'
     -
         image: lososeva1_1.png
         name: 'Ікра "Лососева"'
@@ -90,7 +90,7 @@ product_base:
         country: Україна
         energy: '145 кДж / 100 гр.'
         life: '6 місяців'
-        temp: 't 4 ° - 6 ° C'
+        temp: 't 2 ° - 6 ° C'
     -
         image: ketova1_1.png
         name: 'Ікра "Кетова"'
@@ -101,7 +101,7 @@ product_base:
         country: Україна
         energy: '145 кДж / 100 гр.'
         life: '6 місяців'
-        temp: 't 4 ° - 6 ° C'
+        temp: 't 2 ° - 6 ° C'
     -
         image: gorbush1_1.png
         name: 'Ікра "Горбуші"'
@@ -112,7 +112,7 @@ product_base:
         country: Україна
         energy: '145 кДж / 100 гр.'
         life: '6 місяців'
-        temp: 't 4 ° - 6 ° C'
+        temp: 't 2 ° - 6 ° C'
     -
         image: osetrova1_1.png
         name: 'Ікра "Остерова"'
@@ -123,7 +123,7 @@ product_base:
         country: Україна
         energy: '145 кДж / 100 гр.'
         life: '6 місяців'
-        temp: 't 4 ° - 6 ° C'
+        temp: 't 2 ° - 6 ° C'
 product_vip_descr: "<p>Ціна, під запит,</p>\r\n\r\n<p>в залежності від наявності та обсягу замовлення.</p>\r\n\r\n<p>Мінімальний обсяг – від 500 кг.</p>\r\n"
 product_vip:
     -
@@ -136,7 +136,7 @@ product_vip:
         country: Україна
         energy: '145 кДж / 100 гр.'
         life: '6 місяців'
-        temp: 't 4 ° - 6 ° C'
+        temp: 't 2 ° - 6 ° C'
     -
         image: ketova_1.png
         name: 'Ікра "Кетова" VIP'
@@ -147,7 +147,7 @@ product_vip:
         country: Україна
         energy: '145 кДж / 100 гр.'
         life: '6 місяців'
-        temp: 't 4 ° - 6 ° C'
+        temp: 't 2 ° - 6 ° C'
     -
         image: gorbusha_1.png
         name: 'Ікра "Горбуші" VIP'
@@ -158,7 +158,7 @@ product_vip:
         country: Україна
         energy: '145 кДж / 100 гр.'
         life: '6 місяців'
-        temp: 't 4 ° - 6 ° C'
+        temp: 't 2 ° - 6 ° C'
     -
         image: foreleva_1.png
         name: 'Ікра "Форелі" VIP'
@@ -169,7 +169,7 @@ product_vip:
         country: Україна
         energy: '145 кДж / 100 гр.'
         life: '6 місяців'
-        temp: 't 4 ° - 6 ° C'
+        temp: 't 2 ° - 6 ° C'
     -
         image: osetrova_1.png
         name: 'Ікра "Осетрова" VIP'
@@ -180,7 +180,7 @@ product_vip:
         country: Україна
         energy: '145 кДж / 100 гр.'
         life: '6 місяців'
-        temp: 't 4 ° - 6 ° C'
+        temp: 't 2 ° - 6 ° C'
     -
         image: bilug_1.png
         name: 'Ікра "Білуги" VIP'
@@ -191,7 +191,7 @@ product_vip:
         country: Україна
         energy: '145 кДж / 100 гр.'
         life: '6 місяців'
-        temp: 't 4 ° - 6 ° C'
+        temp: 't 2 ° - 6 ° C'
     -
         image: shuki_1.png
         name: 'Ікра "Щуки" VIP'
@@ -202,7 +202,7 @@ product_vip:
         country: Україна
         energy: '145 кДж / 100 гр.'
         life: '6 місяців'
-        temp: 't 4 ° - 6 ° C'
+        temp: 't 2 ° - 6 ° C'
     -
         image: ketova1_2.png
         name: 'Ікра "Кетова" VIP'
@@ -213,7 +213,7 @@ product_vip:
         country: Україна
         energy: '145 кДж / 100 гр.'
         life: '6 місяців'
-        temp: 't 4 ° - 6 ° C'
+        temp: 't 2 ° - 6 ° C'
     -
         image: osetrova1_2.png
         name: 'Ікра "Осетрова" VIP'
@@ -224,7 +224,7 @@ product_vip:
         country: Україна
         energy: '145 кДж / 100 гр.'
         life: '6 місяців'
-        temp: 't 4 ° - 6 ° C'
+        temp: 't 2 ° - 6 ° C'
 class: home
 profile: true
 ---
