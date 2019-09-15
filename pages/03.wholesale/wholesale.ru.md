@@ -6,19 +6,19 @@ products:
         image: lososeva1_1.png
         name: 'Икра "Лососевая"'
     -
-        image: осетровая.png
+        image: osetrova1_1.png
         name: 'Икра "Осетровая"'
     -
-        image: форель.png
+        image: ketova1_1.png
         name: 'Икра "Форели"'
     -
-        image: белуга.png
+        image: osetrova1_11.png
         name: 'Икра "Белуги"'
     -
-        image: кеты.png
+        image: ketova1_11.png
         name: 'Икра "Кеты"'
     -
-        image: горбуши.png
+        image: gorbush1_1.png
         name: 'Икра "Горбуши"'
 packing_title: 'Варианты фасовки икры'
 tara_image: lososeva.png
