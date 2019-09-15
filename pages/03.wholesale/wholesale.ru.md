@@ -16,7 +16,7 @@ products:
         name: 'Икра "Белуги"'
     -
         image: ketova1_11.png
-        name: 'Икра "Кеты"'
+        name: 'Икра "Кеты VIP"'
     -
         image: gorbush1_1.png
         name: 'Икра "Горбуши"'
