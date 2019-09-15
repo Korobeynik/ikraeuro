@@ -21,11 +21,7 @@ products:
         image: горбуши.png
         name: 'Икра "Горбуши"'
 packing_title: 'Варианты фасовки икры'
-tara: Стекло
 tara_image: lososeva.png
-tara_v:
-    -
-        name: '100 мл'
 tara2: Пакет
 tara_image2: caviar.png
 tara_v2:
