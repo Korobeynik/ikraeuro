@@ -1,9 +1,9 @@
 ---
 title: 'Оптовым покупателям'
-media_order: 'caviar.png,in-touch.png,price.png,safety.png,waranty.png,sertificate.png,белуга.png,горбуши.png,кеты.png,лососева.png,осетровая.png,форель.png,lososeva.png'
+media_order: 'caviar.png,in-touch.png,price.png,safety.png,waranty.png,sertificate.png,белуга.png,горбуши.png,кеты.png,лососева.png,осетровая.png,форель.png,lososeva.png,gorbush1_1.png,ketova1_1.png,ketova1_11.png,lososeva1_1.png,osetrova1_1.png,osetrova1_11.png'
 products:
     -
-        image: лососева.png
+        image: lososeva1_1.png
         name: 'Икра "Лососевая"'
     -
         image: осетровая.png
