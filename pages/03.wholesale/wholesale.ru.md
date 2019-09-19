@@ -32,7 +32,7 @@ tara_v2:
     -
         name: '1000 мл'
     -
-        name: '2500 мл'
+        name: '2000 мл'
 cooperation_title: 'Преимущества сотрудничества с нами'
 cooperation_list:
     -
