@@ -26,7 +26,7 @@ tara2: Пакет
 tara_image2: caviar.png
 tara_v2:
     -
-        name: '200 мл'
+        name: '250 мл'
     -
         name: '500 мл'
     -
