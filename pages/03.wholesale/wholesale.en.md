@@ -19,6 +19,13 @@ products:
     -
         image: горбуши.png
         name: 'Humpback salmon'
+packing_list:
+    -
+        name: '<b>Caviar:</b> Salmon, Trout, Pink salmon, Sturgeon, Belgi'
+        price: 'from 125 UAH / kg - in wholesale'
+    -
+        name: '<b>Caviar:</b> VIP Kets with a peephole'
+        price: 'from 160 UAH / kg. - in wholesale'
 packing_title: 'Caviar packaging options'
 tara: Glass
 tara_image: lososeva.png
