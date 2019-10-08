@@ -26,7 +26,7 @@ packing_list:
         price: 'от 125 грн./кг - в опте'
     -
         name: '<b>Икра:</b> Кеты VIP с глазком'
-        price: 'от 16 0грн./кг. - в опте'
+        price: 'от 160 грн./кг. - в опте'
 packing_title: 'Варианты фасовки икры'
 tara_image: lososeva.png
 tara2: Пакет
